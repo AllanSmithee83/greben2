@@ -1,0 +1,295 @@
+@import url("https://fonts.googleapis.com/css?family=Lato|Poppins");
+
+:root {
+  --primaryColor: #3fd0d4;
+  --mainWhite: #fff;
+  --offWhite: #f7f7f7;
+  --mainBlack: #222;
+  --mainGrey: #ececec;
+  --darkGrey: #cfcfcf;
+  --grey: grey;
+  --mainTransition: all 0.3s linear;
+  --mainSpacing: 4px;
+  --lightShadow: 2px 5px 3px 0px rgba(0, 0, 0, 0.5);
+  --darkShadow: 4px 10px 5px 0px rgba(0, 0, 0, 0.5);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  color: var(--mainBlack);
+  background: var(--mainWhite);
+  line-height: 1.4;
+  font-size: 1rem;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 1.25rem;
+  letter-spacing: var(--mainSpacing);
+}
+a {
+  text-decoration: none;
+}
+p {
+  margin-bottom: 1.25rem;
+}
+.defaultHero {
+  min-height: calc(100vh - 62px);
+  background: linear-gradient(rgba(63, 208, 212, 0.7), rgba(0, 0, 0, 0.7)),
+    url("../images/defaultBcg.jpeg") center/cover no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn-white,
+.btn-primary {
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: var(--mainSpacing);
+  color: var(--mainWhite);
+  border: 2px solid var(--mainWhite);
+  padding: 0.9rem 1.6rem;
+  display: inline-block;
+  transition: var(--mainTransition);
+  cursor: pointer;
+}
+.btn-white:hover {
+  background: var(--mainWhite);
+  color: var(--primaryColor);
+}
+.btn-primary {
+  background: var(--primaryColor);
+  color: var(--mainWhite);
+  border: 2px solid var(--primaryColor);
+}
+.btn-primary:hover {
+  background: transparent;
+  color: var(--primaryColor);
+}
+main {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.rich {
+  color: var(--darkGrey);
+  font-style: italic;
+}
+
+/* via ferrata */
+
+/* .najava-page-container {
+  margin: 20px auto;
+  padding: 2rem 5rem;
+  width: 90vw;
+} */
+
+.najave-page-detail-info-content {
+  display: block;
+  text-transform: uppercase;
+  margin: 3rem;
+  text-align: center;
+}
+
+.najave-page-detail-title {
+  margin-bottom: 2rem;
+}
+
+.najave-page-detail-info-content h2 {
+  font-size: 1.9rem;
+}
+
+.najave-page-gallery {
+  text-align: center;
+}
+
+.plan-akcije {
+  /* font-size: 1.1rem; */
+  white-space: pre-line;
+  /* line-height: 1.6rem; */
+}
+.plan-akcije p {
+  line-height: 2;
+}
+.najavapage-image {
+  max-width: 100%;
+  max-height: 500px;
+}
+.najave-page-list-date {
+  list-style: none;
+  font-size: 1.1rem;
+  flex: 0 0 44%;
+  background-color: #f7f7f7;
+  padding: 0 10vh;
+}
+.najave-page-section {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.quickfact-details > svg {
+  /* color: #55c57a;
+   */
+  color: #3fd0d4;
+  font-size: 1.3rem;
+  margin-right: 1.5rem;
+  margin-bottom: -2px;
+}
+
+.quickfact-details:not(:last-child) {
+  margin-bottom: 2.25rem;
+}
+.quickfact-attribute {
+  font-weight: 700;
+  margin-right: 2.25rem;
+  text-transform: uppercase;
+  font-size: 1rem;
+}
+
+.najave-page-description {
+  padding: 0 4vw;
+  flex: 0 0 54%;
+  margin-bottom: 3rem;
+}
+.najave-font {
+  color: var(--primaryColor);
+}
+.najave-font-h {
+  color: var(--primaryColor);
+  font-size: 3.2rem;
+  margin-top: 0.5rem;
+}
+
+.organizator-akcije {
+  margin-top: 5rem;
+}
+
+.organizator-akcije-box {
+  font-size: 1.1rem;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-weight: 400;
+  margin-bottom: 4rem;
+}
+.organizator-akcije-box > svg {
+  color: #3fd0d4;
+  font-size: 1.3rem;
+  margin-right: 1rem;
+}
+
+.organizator-akcije-slika {
+  border-radius: 50%;
+  height: 3.5rem;
+  width: 3.5rem;
+  margin-right: 1.25rem;
+}
+
+.organizator-akcije-ime {
+  font-weight: 700;
+  margin-right: 2.25rem;
+  text-transform: uppercase;
+  font-size: 1.1rem;
+}
+
+@media only screen and (max-width: 75em) {
+  .najave-page-description,
+  .najave-page-list-date {
+    padding: 0 4vw;
+  }
+}
+
+@media only screen and (max-width: 56.25em) {
+  .najave-page-description,
+  .najave-page-list-date {
+    flex: 0 0 100%;
+  }
+  .najave-page-description {
+    order: 1;
+  }
+  .najave-page-list-date {
+    order: 2;
+    margin-bottom: 4rem;
+  }
+  /* .najava-page-container {
+    padding: 2rem 2rem;
+  } */
+}
+
+@media only screen and (max-width: 37.5em) {
+  /* .najava-page-container {
+    padding: 0;
+  } */
+}
+
+/* Nastim */
+.our-team-card {
+  display: flex;
+  flex-flow: column;
+  padding: 3rem;
+}
+
+.our-team-card-content {
+  display: flex;
+  flex-flow: row;
+}
+
+.our-team-card-info {
+  margin-left: 2rem;
+  line-height: 2.2rem;
+}
+
+.our-team-card-info:first-child {
+  font-weight: bold;
+}
+.our-team-card-list {
+  font-size: 1.2rem;
+  line-height: 1.6rem;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.our-ream-img {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50%;
+}
+.our-team-card-titula {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: var(--primaryColor);
+  padding: 0.3rem;
+}
+
+.our-team-section {
+  text-align: center;
+  margin-top: 4rem;
+}
+
+.ourteam-greben {
+  font-size: 1.4rem;
+  list-style: none;
+}
+
+.our-team-card-info-p {
+  margin-bottom: 0;
+}
+
+@media only screen and (max-width: 56.25em) {
+  .our-team-card {
+    padding: 1rem;
+  }
+}
