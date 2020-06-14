@@ -59,7 +59,7 @@ export default galerija
 
 export const data = graphql`
   query {
-    allInstaNode(limit: 12) {
+    allInstaNode {
       nodes {
         id
         caption
