@@ -40,6 +40,10 @@ const Template = ({ data }) => {
     <Layout>
       {/* <SEO title={naziv} /> */}
       <Helmet htmlAttributes={{ lang: "en" }} title={`${naziv} | PK Greben`}>
+        <meta
+          name="google-site-verification"
+          content="9gumCdgcgwRD6mIntcI_KLyw98Lij7BEs7VLq5CcnkE"
+        />
         <meta name="description" content={naziv} />
         <meta name="image" content={mainImage.fluid.src} />
         {/* facebook cards */}

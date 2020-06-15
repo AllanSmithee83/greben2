@@ -55,6 +55,10 @@ const Blog = ({ data }) => {
   return (
     <Layout>
       <Helmet htmlAttributes={{ lang: "en" }} title={`${naziv} | PK Greben`}>
+        <meta
+          name="google-site-verification"
+          content="9gumCdgcgwRD6mIntcI_KLyw98Lij7BEs7VLq5CcnkE"
+        />
         <meta name="description" content={naziv} />
         <meta name="image" content={slika.fluid.src} />
         {/* facebook cards */}

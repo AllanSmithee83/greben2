@@ -27,6 +27,10 @@ const SEO = ({ title, description, image }) => {
 
   return (
     <Helmet htmlAttributes={{ lang: "en" }} title={`${title} | ${siteTitle}`}>
+      <meta
+        name="google-site-verification"
+        content="9gumCdgcgwRD6mIntcI_KLyw98Lij7BEs7VLq5CcnkE"
+      />
       <meta name="description" content={description || siteDesc} />
       <meta name="image" content={imagebackup} />
       {/* facebook cards */}
