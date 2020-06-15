@@ -48,7 +48,7 @@ const Template = ({ data }) => {
           content={`greben2-demo.netlify.app/tours/${slug}`}
         />
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="Pk Greben" />
+        <meta property="og:title" content={`${naziv} | PK Greben`} />
         <meta
           property="og:description"
           content="Planinarski klub greben Mladenovac"
@@ -59,7 +59,7 @@ const Template = ({ data }) => {
         {/* twitter card */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:creator" content="@branislav_caran" />
-        <meta name="twitter:title" content="PK Greben" />
+        <meta name="twitter:title" content={`${naziv} | PK Greben`} />
         <meta
           name="twitter:description"
           content="Planinarski klub greben Mladenovac"
@@ -85,34 +85,42 @@ const Template = ({ data }) => {
             </div>
             <li className="quickfact-details">
               <FaCalendarAlt />
-              <span className="quickfact-attribute">Datum</span>{" "}
+              <span className="quickfact-attribute">Datum</span>
               <span>{datum}</span>
             </li>
             <li className="quickfact-details">
               <FaCompass />
-              <span className="quickfact-attribute">Kategorija</span>{" "}
-              <span>{kategorija}</span>
+              <span className="quickfact-attribute">Kategorija</span>
+              <span>{kategorija || "Planinarenje"}</span>
             </li>
-            <li className="quickfact-details">
-              <FaRegImage />
-              <span className="quickfact-attribute">Najvisi Vrh</span>
-              <span>{nadmorskaVisina}</span> metara
-            </li>
-            <li className="quickfact-details">
-              <FaHiking />
-              <span className="quickfact-attribute">Duzina Staze</span>
-              <span>{duzinaStaze}</span> km
-            </li>
-            <li className="quickfact-details">
-              <FaChartLine />
-              <span className="quickfact-attribute">Tezina Staze</span>
-              <span>{tezinaStaze}</span>
-            </li>
-            <li className="quickfact-details">
-              <FaRegMoneyBillAlt />
-              <span className="quickfact-attribute">Troskovi </span>
-              <span>{cena} din (okvirno)</span>
-            </li>
+            {nadmorskaVisina && (
+              <li className="quickfact-details">
+                <FaRegImage />
+                <span className="quickfact-attribute">Najvisi Vrh</span>
+                <span>{nadmorskaVisina} </span> metara
+              </li>
+            )}
+            {duzinaStaze && (
+              <li className="quickfact-details">
+                <FaHiking />
+                <span className="quickfact-attribute">Duzina Staze</span>
+                <span>{duzinaStaze}</span> km
+              </li>
+            )}
+            {tezinaStaze && (
+              <li className="quickfact-details">
+                <FaChartLine />
+                <span className="quickfact-attribute">Tezina Staze</span>
+                <span>{tezinaStaze}</span>
+              </li>
+            )}
+            {cena && (
+              <li className="quickfact-details">
+                <FaRegMoneyBillAlt />
+                <span className="quickfact-attribute">Troskovi </span>
+                <span>{cena} </span> din (okvirno)
+              </li>
+            )}
             <div className="najave-page-detail-title organizator-akcije">
               <h3>Organizator</h3>
             </div>

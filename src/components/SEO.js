@@ -1,6 +1,7 @@
 import React from "react"
 import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
+import imagebackup from "../images/grebenBcg.jpg"
 
 const getData = graphql`
   query {
@@ -16,8 +17,8 @@ const getData = graphql`
   }
 `
 
-const imagebackup =
-  "/static/544aaa383e06681a4b67c0eb1ee1e827/8688f/grebenBcg.jpg"
+// const imagebackup =
+//   "/static/544aaa383e06681a4b67c0eb1ee1e827/8688f/grebenBcg.jpg"
 
 const SEO = ({ title, description, image }) => {
   const { site } = useStaticQuery(getData)

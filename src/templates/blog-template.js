@@ -63,7 +63,7 @@ const Blog = ({ data }) => {
           content={`greben2-demo.netlify.app/blog/${slug}`}
         />
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="Pk Greben" />
+        <meta property="og:title" content={`${naziv} | PK Greben`} />
         <meta
           property="og:description"
           content="Planinarski klub greben Mladenovac"
@@ -74,7 +74,7 @@ const Blog = ({ data }) => {
         {/* twitter card */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:creator" content="@branislav_caran" />
-        <meta name="twitter:title" content="PK Greben" />
+        <meta name="twitter:title" content={`${naziv} | PK Greben`} />
         <meta
           name="twitter:description"
           content="Planinarski klub greben Mladenovac"
