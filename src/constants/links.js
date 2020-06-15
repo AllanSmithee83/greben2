@@ -9,11 +9,11 @@ export default [
   },
   {
     path: "/onama",
-    text: "onama",
+    text: "o nama",
   },
   {
     path: "/izvestaji",
-    text: "izvestaji",
+    text: "izveštaji",
   },
   {
     path: "/viaferrata",

@@ -4,11 +4,11 @@ require("dotenv").config({
 module.exports = {
   siteMetadata: {
     title: "Planinarski Klub Greben",
-    description: "Planinarski Klub Greben Mladenovac Planinarenje Kosmaj",
+    description: "Planinarski Klub Greben Mladenovac",
     author: "@branislavcaran",
     twitterUsername: "@branislav_caran",
     image: "/grebenBcg.jpg",
-    siteUrl: "https://greben2-demo.netlify.app",
+    siteUrl: "https://greben.org",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -37,8 +37,8 @@ module.exports = {
     {
       resolve: "gatsby-plugin-robots-txt",
       options: {
-        host: "https://greben2-demo.netlify.app",
-        sitemap: "https://greben2-demo.netlify.app/sitemap.xml",
+        host: "https://greben.org",
+        sitemap: "https://greben.org/sitemap.xml",
         policy: [{ userAgent: "*", allow: "/" }],
       },
     },

@@ -12,6 +12,6 @@ export default [
   },
   {
     icon: <FaSquarespace />,
-    url: "https://greben.netlify.com",
+    url: "https://greben2.netlify.app/",
   },
 ]
