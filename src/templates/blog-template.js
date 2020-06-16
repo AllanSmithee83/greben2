@@ -115,7 +115,7 @@ export const query = graphql`
       izvestaj {
         json
       }
-      datum(formatString: "MMMM Do, YYYY")
+      datum(formatString: "DD. MMMM YYYY")
       slika {
         fluid {
           ...GatsbyContentfulFluid

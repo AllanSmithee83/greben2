@@ -17,7 +17,7 @@ const getTours = graphql`
           naziv
           cena
           slug
-          datum(formatString: "MMMM Do, YY")
+          datum(formatString: "DD.MM.YYYY.")
           kategorija
           nadmorskaVisina
           duzinaStaze

@@ -160,7 +160,7 @@ export const query = graphql`
       naziv
       cena
       slug
-      datum(formatString: "dddd MMMM Do, YYYY")
+      datum(formatString: "DD.MM.YYYY.")
       kategorija
       nadmorskaVisina
       duzinaStaze
