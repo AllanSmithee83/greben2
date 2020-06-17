@@ -2,7 +2,8 @@ import React from "react"
 import Image from "gatsby-image"
 import styles from "../../css/tour.module.css"
 import { FaMap } from "react-icons/fa"
-import AniLink from "gatsby-plugin-transition-link/AniLink"
+// import AniLink from "gatsby-plugin-transition-link/AniLink"
+import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 
@@ -35,9 +36,12 @@ const Tour = ({ tour }) => {
     <article className={styles.tour}>
       <div className={styles.imgContainer}>
         <Image fluid={mainImage} className={styles.img} alt="single tour" />
-        <AniLink fade className={styles.link} to={`najave/${slug}`}>
+        {/* <AniLink fade className={styles.link} to={`najave/${slug}`}>
           detalji
-        </AniLink>
+        </AniLink> */}
+        <Link className={styles.link} to={`najave/${slug}`}>
+          detalji
+        </Link>
       </div>
       <div className={styles.footer}>
         <h3>{naziv}</h3>

@@ -71,7 +71,7 @@ const Template = ({ data }) => {
         <meta name="twitter:image" content={mainImage.fluid.src} />
       </Helmet>
 
-      <div className="najava-page-container">
+      <section className="najava-page-container">
         <div className="najave-page-gallery najave-page-detail-box">
           <Image
             fluid={slika[0].fluid}
@@ -118,7 +118,7 @@ const Template = ({ data }) => {
                 <span>{tezinaStaze}</span>
               </li>
             )}
-            {cena && (
+            {!!cena && (
               <li className="quickfact-details">
                 <FaRegMoneyBillAlt />
                 <span className="quickfact-attribute">Troskovi </span>
@@ -140,16 +140,16 @@ const Template = ({ data }) => {
               <h2>Plan Akcije</h2>
             </div>
             <div className="najave-page-description-content">
-              <section className="plan-akcije">
+              <article className="plan-akcije">
                 {documentToReactComponents(json)}
-              </section>
+              </article>
             </div>
             <AniLink fade to="/najave" className="btn-primary">
               nazad na najave
             </AniLink>
           </div>
         </div>
-      </div>
+      </section>
     </Layout>
   )
 }
