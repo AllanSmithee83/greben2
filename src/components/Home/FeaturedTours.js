@@ -3,7 +3,8 @@ import Tour from "../Tours/Tour"
 import { useStaticQuery, graphql } from "gatsby"
 import Title from "../Title"
 import styles from "../../css/items.module.css"
-import AniLink from "gatsby-plugin-transition-link/AniLink"
+// import AniLink from "gatsby-plugin-transition-link/AniLink"
+import { Link } from "gatsby"
 
 const getTours = graphql`
   query {
@@ -52,9 +53,12 @@ const FeaturedTours = () => {
         })}
       </div>
 
-      <AniLink fade to="/najave" className="btn-primary">
+      {/* <AniLink fade to="/najave" className="btn-primary">
         sve najave
-      </AniLink>
+      </AniLink> */}
+      <Link to="/najave" className="btn-primary">
+        sve najave
+      </Link>
     </section>
   )
 }
