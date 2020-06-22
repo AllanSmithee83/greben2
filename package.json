@@ -20,7 +20,6 @@
     "gatsby": "^2.4.2",
     "gatsby-background-image": "^0.6.1",
     "gatsby-image": "^2.1.0",
-    "gatsby-plugin-google-analytics": "^2.3.4",
     "gatsby-plugin-playground": "^1.0.6",
     "gatsby-plugin-react-helmet": "^3.0.12",
     "gatsby-plugin-robots-txt": "^1.4.0",
