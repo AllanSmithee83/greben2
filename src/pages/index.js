@@ -10,7 +10,7 @@ import FeaturedTours from "../components/Home/FeaturedTours"
 import SEO from "../components/SEO"
 export default ({ data }) => (
   <Layout>
-    <SEO title="Naslovna" />
+    <SEO title="Pk Greben" />
     <StyledHero home="true" img={data.defaultBcg.childImageSharp.fluid}>
       <Banner title="greben" info=" Planinarski Klub">
         <AniLink fade to="/najave" className="btn-white">
