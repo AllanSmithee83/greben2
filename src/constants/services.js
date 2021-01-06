@@ -1,6 +1,6 @@
 import React from "react"
 import { FaMountain, FaCalendarAlt, FaUserTie } from "react-icons/fa"
-import plan from "../images/files/plan.pdf"
+import plan from "../images/files/plan2021.pdf"
 import vrhovi from "../images/files/NasiVrhovi.pdf"
 
 export default [
