@@ -7,7 +7,7 @@ export default [
   {
     icon: <FaCalendarAlt />,
     title: "godišnji plan",
-    text: "Godišnji Plan akcija PK Greben za kalendarsku 2020. godinu.",
+    text: "Godišnji Plan akcija PK Greben za kalendarsku 2021. godinu.",
     link: plan,
   },
 

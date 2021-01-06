@@ -35,7 +35,7 @@ const Tour = ({ tour }) => {
   return (
     <article className={styles.tour}>
       <div className={styles.imgContainer}>
-        <Image fluid={mainImage} className={styles.img} alt="single tour" />
+        <Image fluid={mainImage} className={styles.img} alt="{naziv}" />
         {/* <AniLink fade className={styles.link} to={`najave/${slug}`}>
           detalji
         </AniLink> */}
