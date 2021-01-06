@@ -1,6 +1,6 @@
 import React from "react"
 import { FaMountain, FaCalendarAlt, FaUserTie } from "react-icons/fa"
-import plan from "../images/files/plan2021.pdf"
+import plan2021 from "../images/files/plan2021.pdf"
 import vrhovi from "../images/files/NasiVrhovi.pdf"
 
 export default [
@@ -8,7 +8,7 @@ export default [
     icon: <FaCalendarAlt />,
     title: "godišnji plan",
     text: "Godišnji Plan akcija PK Greben za kalendarsku 2021. godinu.",
-    link: plan,
+    link: plan2021,
   },
 
   {
