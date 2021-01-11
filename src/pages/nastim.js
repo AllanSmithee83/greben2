@@ -1,7 +1,7 @@
 import React from "react"
 import Layout from "../components/Layout"
 import { FaPhoneSquare, FaUserTie } from "react-icons/fa"
-import AniLink from "gatsby-plugin-transition-link/AniLink"
+import { Link } from "gatsby"
 import SEO from "../components/SEO"
 import Title from "../components/Title"
 export default function nastim() {
@@ -119,9 +119,9 @@ export default function nastim() {
           </div>
         </li>
       </ul>
-      <AniLink fade to="/" className="btn-white">
+      <Link to="/" className="btn-white">
         back to home page
-      </AniLink>
+      </Link>
     </Layout>
   )
 }

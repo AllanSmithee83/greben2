@@ -2,7 +2,6 @@ import React from "react"
 import Image from "gatsby-image"
 import styles from "../../css/tour.module.css"
 import { FaMap } from "react-icons/fa"
-// import AniLink from "gatsby-plugin-transition-link/AniLink"
 import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
@@ -19,10 +18,11 @@ const getImage = graphql`
   }
 `
 
-const Tour = ({ tour }) => {
+const Tour = ({ tour, aaaa }) => {
   const data = useStaticQuery(getImage)
   const img = data.file.childImageSharp.fluid
   const { naziv, slika, datum, kategorija, cena, slug } = tour
+  console.log('aaaaa', aaaa)
 
   // let mainImage
   // if (images) {
@@ -36,12 +36,13 @@ const Tour = ({ tour }) => {
     <article className={styles.tour}>
       <div className={styles.imgContainer}>
         <Image fluid={mainImage} className={styles.img} alt="{naziv}" />
-        {/* <AniLink fade className={styles.link} to={`najave/${slug}`}>
-          detalji
-        </AniLink> */}
+     
+     {(aaaa) ? (
         <Link className={styles.link} to={`najave/${slug}`}>
           detalji
-        </Link>
+        </Link>) : (<Link className={styles.link} to={`${slug}`}>
+          detalji
+        </Link>) } 
       </div>
       <div className={styles.footer}>
         <h3>{naziv}</h3>

@@ -2,7 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/Layout"
 import styles from "../css/single-blog.module.css"
-import AniLink from "gatsby-plugin-transition-link/AniLink"
+import { Link } from "gatsby"
 import { documentToReactComponents } from "@contentful/rich-text-react-renderer"
 import { log } from "util"
 import Image from "gatsby-image"
@@ -98,9 +98,9 @@ const Blog = ({ data }) => {
           <article className={styles.post}>
             {documentToReactComponents(json)}
           </article>
-          <AniLink fade to="/izvestaji" className="btn-primary">
+          <Link to="/izvestaji" className="btn-primary">
             svi izveštaji
-          </AniLink>
+          </Link>
         </div>
       </section>
     </Layout>

@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/Layout"
-import AniLink from "gatsby-plugin-transition-link/AniLink"
+import { Link } from "gatsby"
 import styles from "../css/blog.module.css"
 import Tour from "../components/Tours/Tour"
 import Title from "../components/Title"
@@ -30,16 +30,15 @@ const Najave = props => {
         </div>
         <section className={styles.links}>
           {!isFirst && (
-            <AniLink fade to={prevPage} className={styles.link}>
+            <Link to={prevPage} className={styles.link}>
               Prev
-            </AniLink>
+            </Link>
           )}
 
           {Array.from({ length: numPagesTours }, (_, i) => {
             return (
-              <AniLink
-                key={i}
-                fade
+              <Link
+                key={i}                
                 to={`/najave/${i === 0 ? "" : i + 1}`}
                 className={
                   i + 1 === currentPageTours
@@ -48,13 +47,13 @@ const Najave = props => {
                 }
               >
                 {i + 1}
-              </AniLink>
+              </Link>
             )
           })}
           {!isLast && (
-            <AniLink fade to={nextPage} className={styles.link}>
+            <Link to={nextPage} className={styles.link}>
               Next
-            </AniLink>
+            </Link>
           )}
         </section>
       </section>

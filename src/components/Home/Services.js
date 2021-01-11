@@ -2,7 +2,7 @@ import React from "react"
 // import Title from "../Title"
 import styles from "../../css/services.module.css"
 import services from "../../constants/services"
-import AniLink from "gatsby-plugin-transition-link/AniLink"
+import { Link } from "gatsby"
 
 const Services = () => {
   return (
@@ -17,9 +17,9 @@ const Services = () => {
                   <span>{item.icon}</span>
                 </a>
               ) : (
-                <AniLink fade to={`/nastim`}>
+                <Link to={`/nastim`}>
                   <span style={{ color: "black" }}>{item.icon}</span>
-                </AniLink>
+                </Link>
               )}
               <h4>{item.title}</h4>
               <p>{item.text}</p>

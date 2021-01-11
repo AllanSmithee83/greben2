@@ -13,7 +13,7 @@ import {
   FaUserTie,
   FaMailBulk,
 } from "react-icons/fa"
-import AniLink from "gatsby-plugin-transition-link/AniLink"
+import { Link } from "gatsby"
 // import SEO from "../components/SEO"
 import { Helmet } from "react-helmet"
 import { documentToReactComponents } from "@contentful/rich-text-react-renderer"
@@ -144,9 +144,9 @@ const Template = ({ data }) => {
                 {documentToReactComponents(json)}
               </article>
             </div>
-            <AniLink fade to="/najave" className="btn-primary">
+            <Link to="/najave" className="btn-primary">
               nazad na najave
-            </AniLink>
+            </Link>
           </div>
         </div>
       </section>

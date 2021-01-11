@@ -1,7 +1,8 @@
 import React from "react"
 import Title from "../Title"
 import styles from "../../css/about.module.css"
-import AniLink from "gatsby-plugin-transition-link/AniLink"
+import { Link } from "gatsby"
+
 
 // import img from "../../images/defaultBcg.jpeg"
 import { useStaticQuery, graphql } from "gatsby"
@@ -50,9 +51,9 @@ const About = () => {
             koji je ujedno i najviši vrh Irana (2016.godine); kao i najviše
             vrhove, Austrije, Slovenije, Balkana…
           </p>
-          <AniLink className="btn-primary" fade to={`/onama`}>
+          <Link className="btn-primary" to={`/onama`}>
             saznaj više
-          </AniLink>
+          </Link>
           {/* <button type="button" className="btn-primary">
             saznaj više
           </button> */}

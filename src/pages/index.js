@@ -5,7 +5,7 @@ import About from "../components/Home/About"
 import Services from "../components/Home/Services"
 import StyledHero from "../components/StyledHero"
 import { graphql } from "gatsby"
-import AniLink from "gatsby-plugin-transition-link/AniLink"
+import { Link } from "gatsby"
 import FeaturedTours from "../components/Home/FeaturedTours"
 import SEO from "../components/SEO"
 export default ({ data }) => (
@@ -13,9 +13,9 @@ export default ({ data }) => (
     <SEO title="PK Greben" />
     <StyledHero home="true" img={data.defaultBcg.childImageSharp.fluid}>
       <Banner title="greben" info=" Planinarski Klub">
-        <AniLink fade to="/najave" className="btn-white">
+        <Link to="/najave" className="btn-white">
           pogledaj naše akcije
-        </AniLink>
+        </Link>
       </Banner>
     </StyledHero>
     <About />
