@@ -6,7 +6,9 @@ import SEO from "../components/SEO"
 import styles from "../css/galerija.module.css"
 
 const galerija = ({ data }) => {
-  const instaPhotos = data.allInstaNode.nodes
+  const instaPhotos = data.instagram.edges 
+  
+
 
   return (
     <Layout>
@@ -27,7 +29,8 @@ const galerija = ({ data }) => {
           justifyContent: "center",
         }}
       >
-        {instaPhotos.map(photo => (
+        {instaPhotos.map((photo, i )=> (
+          
           <a
             className={styles.aaa}
             style={{
@@ -37,13 +40,13 @@ const galerija = ({ data }) => {
               minWidth: "293px",
               width: "293px",
               transition: "200ms box-shadow linear",
-            }}
-            href={`https://instagram.com/p/${photo.id}/`}
-            key={photo.id}
+            }}           
+            href={`https://instagram.com/pk.greben/`}
+            key={i}
           >
-            <Image
-              fluid={photo.localFile.childImageSharp.fluid}
-              alt={photo.caption}
+          <Image             
+              fluid={photo.node.childImageSharp.fluid}
+              alt='insta'
             />
           </a>
         ))}
@@ -58,20 +61,18 @@ const galerija = ({ data }) => {
 export default galerija
 
 export const data = graphql`
-  query {
-    allInstaNode {
-      nodes {
-        id
-        caption
-        username
-        localFile {
-          childImageSharp {
-            fluid {
-              ...GatsbyImageSharpFluid_withWebp
-            }
+{
+  instagram: allFile(filter: { relativeDirectory: { eq: "instagram" } }, , sort:{fields:name order:DESC }) {
+    edges {
+      node {
+        childImageSharp {
+          fluid(maxWidth: 500){
+            ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
     }
   }
+}
+
 `
