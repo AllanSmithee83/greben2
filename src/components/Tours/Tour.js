@@ -21,8 +21,8 @@ const getImage = graphql`
 const Tour = ({ tour, aaaa }) => {
   const data = useStaticQuery(getImage)
   const img = data.file.childImageSharp.fluid
-  const { naziv, slika, datum, kategorija, cena, slug } = tour
-  console.log('aaaaa', aaaa)
+  const { naziv, slika, datum, kategorija, cena, slug } = tour  
+  console.log('eeee', slug)
 
   // let mainImage
   // if (images) {
@@ -37,12 +37,9 @@ const Tour = ({ tour, aaaa }) => {
       <div className={styles.imgContainer}>
         <Image fluid={mainImage} className={styles.img} alt="{naziv}" />
      
-     {(aaaa) ? (
-        <Link className={styles.link} to={`najave/${slug}`}>
+        <Link className={styles.link} to={`/najave/${slug}`}>
           detalji
-        </Link>) : (<Link className={styles.link} to={`${slug}`}>
-          detalji
-        </Link>) } 
+        </Link>
       </div>
       <div className={styles.footer}>
         <h3>{naziv}</h3>
