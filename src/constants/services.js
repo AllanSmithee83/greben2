@@ -20,6 +20,6 @@ export default [
   {
     icon: <FaUserTie />,
     title: "naš tim",
-    text: "Članovi uprave Planinarskog Kluba Grebn - Kontakt podaci.",
+    text: "Članovi uprave Planinarskog Kluba Greben - Kontakt podaci.",
   },
 ]

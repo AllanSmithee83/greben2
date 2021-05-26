@@ -7,7 +7,7 @@ export default [
   {
     icon: <FaUserTie />,
     title: "naš tim",
-    text: "Članovi uprave Planinarskog Kluba Grebn - Kontakt podaci.",
+    text: "Članovi uprave Planinarskog Kluba Greben - Kontakt podaci.",
   },
   {
     icon: <FaFilePdf />,
@@ -19,7 +19,7 @@ export default [
   {
     icon: <FaFilePdf />,
     title: "pravilnik",
-    text: "Pravilnik o bezvednom izvodjenju planianrskih aktivnosti",
+    text: "Pravilnik o bezbednom izvodjenju planinarskih aktivnosti",
     link: pravilnik,
   },
 
