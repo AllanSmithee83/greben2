@@ -5,6 +5,8 @@ import { graphql } from "gatsby"
 import styles from "../css/about.module.css"
 import Image from "gatsby-image"
 import Title from "../components/Title"
+import Services from "../components/Home/Services"
+import documents from "../constants/documents"
 
 import SEO from "../components/SEO"
 
@@ -45,11 +47,13 @@ const onama = ({ data }) => {
             Irana (2016.godine); kao i najviše vrhove, Austrije, Slovenije,
             Balkana…
           </p>
-
+        
           <p> Sastanci su u prostorijama kluba sredom od 20h!</p>
           <p>adresa: PK GREBEN, Kralja Petra I 175, 11400 Mladenovac</p>
           <p> E-mail: greben.pk@gmail.com</p>
         </div>
+        <Services services={documents} />
+
       </div>
       <section style={{ display: "flex", flexFlow: "row" }}>
         <div className={styles.viaferrataSection}>

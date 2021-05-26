@@ -35,7 +35,7 @@ const Tour = ({ tour, aaaa }) => {
   return (
     <article className={styles.tour}>
       <div className={styles.imgContainer}>
-        <Image fluid={mainImage} className={styles.img} alt="{naziv}" />
+        <Image fluid={mainImage} className={styles.img} alt={naziv} />
      
         <Link className={styles.link} to={`/najave/${slug}`}>
           detalji

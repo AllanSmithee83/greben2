@@ -31,7 +31,7 @@ const About = () => {
             {/* <img src={img} alt="about company" /> */}
             <Img
               fluid={aboutImage.childImageSharp.fluid}
-              alt="awesome landscape"
+              alt="pkgreben"
             />
           </div>
         </article>
