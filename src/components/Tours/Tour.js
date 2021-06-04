@@ -22,7 +22,6 @@ const Tour = ({ tour, aaaa }) => {
   const data = useStaticQuery(getImage)
   const img = data.file.childImageSharp.fluid
   const { naziv, slika, datum, kategorija, cena, slug } = tour  
-  console.log('eeee', slug)
 
   // let mainImage
   // if (images) {
@@ -35,8 +34,7 @@ const Tour = ({ tour, aaaa }) => {
   return (
     <article className={styles.tour}>
       <div className={styles.imgContainer}>
-        <Image fluid={mainImage} className={styles.img} alt={naziv} />
-     
+        <Image fluid={mainImage} className={styles.img} alt={naziv} />     
         <Link className={styles.link} to={`/najave/${slug}`}>
           detalji
         </Link>
