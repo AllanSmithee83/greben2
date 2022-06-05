@@ -17,6 +17,7 @@ export default [
     text: "Značajni vrhovi koje smo popeli.",
     link: vrhovi,
   },
+  
   {
     icon: <FaUserTie />,
     title: "naš tim",
