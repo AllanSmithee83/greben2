@@ -72,6 +72,10 @@ p {
   color: var(--mainWhite);
   border: 2px solid var(--primaryColor);
 }
+.btn-primary-wide {
+  display: flex;
+  justify-content: center;
+}
 .btn-primary:hover {
   background: transparent;
   color: var(--primaryColor);

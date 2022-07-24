@@ -47,7 +47,12 @@ const onama = ({ data }) => {
             Irana (2016.godine); kao i najviše vrhove, Austrije, Slovenije,
             Balkana…
           </p>
+
+          <a className="btn-primary btn-primary-wide" target="_blank" href="http://grebencici.weebly.com/">
+            Grebenčići
+          </a>
         
+          <p/>
           <p> Sastanci su u prostorijama kluba sredom od 20h!</p>
           <p>adresa: PK GREBEN, Kralja Petra I 175, 11400 Mladenovac</p>
           <p> E-mail: greben.pk@gmail.com</p>

@@ -30,6 +30,9 @@ export default function viaferrata({ data }) {
             stenama i budu potpuno bezbedni. Postoje horizontalne i vertikalne.
             Širom sveta, ferate privlače veliki broj planinara željnih avanture.
           </p>
+          <a className="btn-primary btn-primary-wide" target="_blank" href="https://www.facebook.com/viaferratatimsrbija/">
+            Via Ferrata Tim
+          </a>
         </div>
       </section>
       <section style={{ display: "flex", flexFlow: "row" }}>
