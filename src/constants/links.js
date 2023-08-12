@@ -16,8 +16,8 @@ export default [
     text: "izveštaji",
   },
   {
-    path: "/viaferrata",
-    text: "viaferrata",
+    path: "/staze_kosmaja",
+    text: "staze kosmaja",
   },
   {
     path: "/galerija",

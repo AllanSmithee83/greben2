@@ -1,0 +1,3622 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2023-08-06T11:07:06Z</time>
+    <bounds maxlat="44.486889308318496" maxlon="20.619955295696855" minlat="44.436355903744698" minlon="20.551721071824431" />
+  </metadata>
+
+  <wpt lat="44.472361374646425" lon="20.57726408354938">
+    <time>2017-11-26T09:20:56Z</time>
+    <name>T 01 Centar (igralište)</name>
+    <cmt>INFO TABLA
+
+Vidikovac 0,53 km 
+Kosturnica 0,78 km STUB 2
+Manastir Tresije 3,5km P
+Kasteljan 3 km
+Nemenikuće
+Amerić 6km A
+</cmt>
+    <desc>INFO TABLA
+
+Vidikovac 0,53 km 
+Kosturnica 0,78 km STUB 2
+Manastir Tresije 3,5km P
+Kasteljan 3 km
+Nemenikuće
+Amerić 6km A
+</desc>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova/P_STUB_01_20230119_095746.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-11-26T09:20:56Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.478604970499873" lon="20.577506991103292">
+    <ele>510.68762199999998</ele>
+    <time>2017-11-26T09:39:56Z</time>
+    <name>T 02 Kosturnica</name>
+    <cmt>STUB 4
+
+
+Izletište
+Manastir Tresije 
+Stari Kamenolom 
+
+
+STUB ?
+Nemenikuće
+
+
+
+STUB ? 
+Kasteljan 
+Amerić A
+
+</cmt>
+    <desc>STUB 4
+
+
+Izletište
+Manastir Tresije 
+Stari Kamenolom 
+
+
+STUB ?
+Nemenikuće
+
+
+
+STUB ? 
+Kasteljan 
+Amerić A
+
+</desc>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova/P_STUB_02_20230119_084923.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-11-26T09:39:56Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.474026020616293" lon="20.581059996038675">
+    <ele>472</ele>
+    <time>2023-01-19T08:14:17Z</time>
+    <name>T 03</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova/P_Stub_3_nov_20230119_091606.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:City>Sopot (Сопот)</gpxx:City>
+          <gpxx:State>Град Београд</gpxx:State>
+          <gpxx:Country>Serbia</gpxx:Country>
+        </gpxx:Address>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Address>
+          <wptx1:City>Sopot (Сопот)</wptx1:City>
+          <wptx1:State>Град Београд</wptx1:State>
+          <wptx1:Country>Serbia</wptx1:Country>
+        </wptx1:Address>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2023-01-19T08:14:17Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.475792003795505" lon="20.570939015597105">
+    <ele>472.403503</ele>
+    <time>2017-11-26T09:53:37Z</time>
+    <name>T 04</name>
+    <cmt>Stari Kamenolom 
+Nemenikuće
+
+
+
+
+Manastir Tresije</cmt>
+    <desc>Stari Kamenolom 
+Nemenikuće
+
+
+
+
+Manastir Tresije</desc>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova/P_STUB_04_20230119_104755.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-11-26T09:53:37Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.472916005179286" lon="20.571211008355021">
+    <ele>451.19302399999998</ele>
+    <time>2017-11-26T09:59:11Z</time>
+    <name>T 05 Šumska kuća</name>
+    <cmt>Tresije 1,5km P
+Igralište 1.km
+Spomenik 3km
+stub 6  1,7 km</cmt>
+    <desc>Tresije 1,5km P
+Igralište 1.km
+Spomenik 3km
+stub 6  1,7 km</desc>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova/P_STUB_05_20230119_105822.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-11-26T09:59:11Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.472946347668767" lon="20.568576408550143">
+    <ele>413.09375</ele>
+    <time>2017-12-04T11:09:53Z</time>
+    <name>T 06 Manastir Tresije</name>
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-12-04T11:09:53Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.472168004140258" lon="20.563451964408159">
+    <ele>419.58578499999999</ele>
+    <time>2017-11-26T10:21:19Z</time>
+    <name>T 07</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova/P_STUB_07_20230119_110641.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-11-26T10:21:19Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.471617313101888" lon="20.57789440266788">
+    <ele>510</ele>
+    <time>2023-02-06T18:56:17Z</time>
+    <name>T 08</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova%20sa%20brojevima/STUB_08.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2023-02-06T18:56:17Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.468164974823594" lon="20.56184196844697">
+    <ele>559.42077600000005</ele>
+    <time>2017-12-04T11:15:59Z</time>
+    <name>T 09</name>
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-12-04T11:15:59Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.466854967176914" lon="20.570415984839201">
+    <ele>577.60797100000002</ele>
+    <time>2017-11-26T10:58:25Z</time>
+    <name>T 10 Spomenik</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova%20sa%20brojevima/STUB_10.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-11-26T10:58:25Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.459075555205345" lon="20.565514918416739">
+    <ele>450</ele>
+    <time>2017-12-04T11:20:48Z</time>
+    <name>T 12 Ptt</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova%20sa%20brojevima/STUB_12.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-12-04T11:20:48Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.477451033890247" lon="20.57771997526288">
+    <ele>533.87152100000003</ele>
+    <time>2017-11-26T09:37:31Z</time>
+    <name>T 13</name>
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-11-26T09:37:31Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.478312022984028" lon="20.565837034955621">
+    <ele>377.35717799999998</ele>
+    <time>2010-11-14T11:53:38Z</time>
+    <name>T 14</name>
+    <cmt>	Krušik 380nvm	Manastir Kasteljan 	3,5 km	
+	T1401	Zmajevac AS	6,5 km	
+				
+	Krušik 380nvm	Centar (Igralište)	1,3 km	
+	T1402	Spomenik	2 km	
+				
+	Krušik 380nvm	Manastir Tresije	0,7 km	
+	T1403			
+</cmt>
+    <desc>	Krušik 380nvm	Manastir Kasteljan 	3,5 km	
+	T1401	Zmajevac AS	6,5 km	
+				
+	Krušik 380nvm	Centar (Igralište)	1,3 km	
+	T1402	Spomenik	2 km	
+				
+	Krušik 380nvm	Manastir Tresije	0,7 km	
+	T1403			
+</desc>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova/P_STUB_14_20230119_113754.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2010-11-14T11:53:38Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.463422577828169" lon="20.566680589690804">
+    <ele>545</ele>
+    <time>2017-12-04T11:19:45Z</time>
+    <name>T 15</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova/P_STUB_15_20230104_131937.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-12-04T11:19:45Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.48651815764606" lon="20.576127329841256">
+    <ele>290</ele>
+    <time>2017-12-04T12:17:47Z</time>
+    <name>T 16</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova/P_Stub_16%20_106_nov_20230119_115524.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-12-04T12:17:47Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.451413825154305" lon="20.560341523960233">
+    <ele>438</ele>
+    <time>2017-12-04T12:03:55Z</time>
+    <name>T 17</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova/P_STUB_17_20230104_135627%20%281%29.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-12-04T12:03:55Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.475431246683002" lon="20.579131571575999">
+    <ele>520</ele>
+    <time>2023-01-19T07:35:48Z</time>
+    <name>T 18</name>
+    <cmt>stub 102 pl  dom  vidikovac tresije centar</cmt>
+    <desc>stub 102 pl  dom  vidikovac tresije centar</desc>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova/P_Stub_102_20230119_083737.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:City>Sopot (Сопот)</gpxx:City>
+          <gpxx:State>Град Београд</gpxx:State>
+          <gpxx:Country>Serbia</gpxx:Country>
+        </gpxx:Address>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Address>
+          <wptx1:City>Sopot (Сопот)</wptx1:City>
+          <wptx1:State>Град Београд</wptx1:State>
+          <wptx1:Country>Serbia</wptx1:Country>
+        </wptx1:Address>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2023-01-19T07:35:48Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.472892871126533" lon="20.577772781252861">
+    <ele>520</ele>
+    <time>2021-05-24T17:46:51Z</time>
+    <name>T 19</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova/P_STUB_19_0_20230119_095252.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-05-24T17:46:51Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.477431923151016" lon="20.582547783851624">
+    <ele>420</ele>
+    <time>2017-12-04T12:25:49Z</time>
+    <name>T 20</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova/P_STUB_20_20230119_090239.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-12-04T12:25:49Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.47936998680234" lon="20.587119022384286">
+    <ele>324.74591099999998</ele>
+    <time>2010-11-14T10:55:20Z</time>
+    <name>T 21</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova/P_STUB_21_20230119_121002.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2010-11-14T10:55:20Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.475122122094035" lon="20.588091155514121">
+    <ele>320</ele>
+    <time>2017-12-04T09:05:58Z</time>
+    <name>T 22 Kasteljan</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova/P_STUB_22_20230119_121630.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-12-04T09:05:58Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.47407815605402" lon="20.589031018316746">
+    <ele>330</ele>
+    <time>2017-12-04T12:34:02Z</time>
+    <name>T 23</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova/P_STUB_23_20230119_122252.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-12-04T12:34:02Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.461763547733426" lon="20.554648200049996">
+    <ele>450</ele>
+    <time>2023-02-07T19:32:29Z</time>
+    <name>T 24</name>
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2023-02-07T19:32:29Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.470921698957682" lon="20.598818985745311">
+    <ele>330</ele>
+    <time>2017-12-04T12:35:09Z</time>
+    <name>T 25</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova%20sa%20brojevima/STUB_25.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-12-04T12:35:09Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.455965701490641" lon="20.564849143847823">
+    <ele>400</ele>
+    <time>2021-05-22T10:14:31Z</time>
+    <name>T 26</name>
+    <cmt>Sedlar
+</cmt>
+    <desc>Sedlar
+</desc>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova/P_STUB_26_0_20230104_134457.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-05-22T10:14:31Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.480610173195601" lon="20.619955295696855">
+    <ele>230</ele>
+    <time>2017-11-26T12:59:49Z</time>
+    <name>T 27 Amerić</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova/P_STUB_27_20230124_113429.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>STUBOVI KOSMAJ</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>STUBOVI KOSMAJ</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-11-26T12:59:49Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.463710328564048" lon="20.593439061194658">
+    <ele>370</ele>
+    <time>2017-12-04T12:47:21Z</time>
+    <name>T 28</name>
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-12-04T12:47:21Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.460809519514441" lon="20.590750314295292">
+    <time>2021-05-24T16:27:41Z</time>
+    <name>T 29</name>
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-05-24T16:27:41Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.464495964348316" lon="20.603576553985476">
+    <ele>340</ele>
+    <time>2017-12-04T12:59:38Z</time>
+    <name>T 30</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova/30_20230104_091515.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-12-04T12:59:38Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.459321647882462" lon="20.599685925990343">
+    <ele>330</ele>
+    <time>2017-12-04T13:00:33Z</time>
+    <name>T 31 Zmajevac</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova/31_20230104_092224.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-12-04T13:00:33Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.455234799534082" lon="20.597702600061893">
+    <ele>290</ele>
+    <time>2010-05-02T12:54:52Z</time>
+    <name>T 32 Manastir Pavlovac</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova/32_20230104_084331.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2010-05-02T12:54:52Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.436355903744698" lon="20.604279125109315">
+    <time>2017-12-04T13:43:56Z</time>
+    <name>T 33</name>
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-12-04T13:43:56Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.472520546987653" lon="20.579602885991335">
+    <ele>490</ele>
+    <time>2023-02-07T12:11:17Z</time>
+    <name>T 34</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova%20sa%20brojevima/STUB_34.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2023-02-07T12:11:17Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.466086011379957" lon="20.586983989924192">
+    <ele>427.61328099999997</ele>
+    <time>2017-11-26T11:38:06Z</time>
+    <name>T 35</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova/P_STUB_35_20230119_130934.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-11-26T11:38:06Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.455704018473625" lon="20.587427979335189">
+    <ele>390</ele>
+    <time>2023-01-04T11:10:50Z</time>
+    <name>T 36</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova/P_Stub_36_100_novi__20230104_121224.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:StreetAddress>Оглавци</gpxx:StreetAddress>
+          <gpxx:City>Mladenovac (Младеновац)</gpxx:City>
+          <gpxx:State>Град Београд</gpxx:State>
+          <gpxx:Country>Serbia</gpxx:Country>
+        </gpxx:Address>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Address>
+          <wptx1:StreetAddress>Оглавци</wptx1:StreetAddress>
+          <wptx1:City>Mladenovac (Младеновац)</wptx1:City>
+          <wptx1:State>Град Београд</wptx1:State>
+          <wptx1:Country>Serbia</wptx1:Country>
+        </wptx1:Address>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2023-01-04T11:10:50Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.467442370951176" lon="20.582215860486031">
+    <ele>470</ele>
+    <time>2017-12-05T08:06:05Z</time>
+    <name>T 37</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova/P_STUB_37_20230104_130107.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-12-05T08:06:05Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.465754590928555" lon="20.553156808018684">
+    <ele>380</ele>
+    <time>2023-02-07T19:34:37Z</time>
+    <name>T 38</name>
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2023-02-07T19:34:37Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.463358959183097" lon="20.592638002708554">
+    <ele>369</ele>
+    <time>2023-01-04T09:28:27Z</time>
+    <name>T 39</name>
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:StreetAddress>Космајски пут</gpxx:StreetAddress>
+          <gpxx:City>Mladenovac (Младеновац)</gpxx:City>
+          <gpxx:State>Град Београд</gpxx:State>
+          <gpxx:Country>Serbia</gpxx:Country>
+        </gpxx:Address>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Address>
+          <wptx1:StreetAddress>Космајски пут</wptx1:StreetAddress>
+          <wptx1:City>Mladenovac (Младеновац)</wptx1:City>
+          <wptx1:State>Град Београд</wptx1:State>
+          <wptx1:Country>Serbia</wptx1:Country>
+        </wptx1:Address>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2023-01-04T09:28:27Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.471533326432109" lon="20.589163955301046">
+    <ele>300</ele>
+    <time>2023-03-07T11:59:19Z</time>
+    <name>T 40</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova%20sa%20brojevima/STUB_40.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2023-03-07T11:59:19Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.470872413367033" lon="20.579500878229737">
+    <ele>500</ele>
+    <time>2017-12-04T14:36:38Z</time>
+    <name>T 41</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova/P_STUB_41_20230119_094347.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-12-04T14:36:38Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.471826441586018" lon="20.580441579222679">
+    <time>2017-12-04T14:36:30Z</time>
+    <name>T 42</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova/P_STUB_42_20230119_093301.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-12-04T14:36:30Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.473871542140841" lon="20.558162648230791">
+    <ele>410</ele>
+    <time>2021-05-22T10:04:16Z</time>
+    <name>T 43</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova%20sa%20brojevima/STUB_43.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-05-22T10:04:16Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.462517248466611" lon="20.570938093587756">
+    <ele>430</ele>
+    <time>2017-12-05T08:53:37Z</time>
+    <name>T 44</name>
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-12-05T08:53:37Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.456162005662918" lon="20.588373458012938">
+    <ele>400</ele>
+    <time>2017-12-05T09:00:24Z</time>
+    <name>T 45</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova%20sa%20brojevima/STUB_45.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-12-05T09:00:24Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.471239456906915" lon="20.599589869379997">
+    <ele>324</ele>
+    <time>2023-03-07T12:04:02Z</time>
+    <name>T 46</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova%20sa%20brojevima/STUB_46.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2023-03-07T12:04:02Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.458339372649789" lon="20.590617377310991">
+    <time>2021-05-22T10:46:21Z</time>
+    <name>T 47</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova%20sa%20brojevima/STUB_47.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-05-22T10:46:21Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.464136715978384" lon="20.593327581882477">
+    <ele>367</ele>
+    <time>2021-05-24T17:13:24Z</time>
+    <name>T 48</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova%20sa%20brojevima/STUB_48.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-05-24T17:13:24Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="44.471543803811073" lon="20.560095515102148">
+    <ele>470</ele>
+    <time>2023-03-07T13:56:16Z</time>
+    <name>T 49</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova%20sa%20brojevima/STUB_49.jpg" />
+    <sym>Circle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2023-03-07T13:56:16Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <trk>
+    <name>putanja_01-05 0,58 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.472914664074779" lon="20.571210840716958" />
+      <trkpt lat="44.472786756232381" lon="20.571269849315286" />
+      <trkpt lat="44.472704948857427" lon="20.571278482675552" />
+      <trkpt lat="44.472566647455096" lon="20.571469254791737" />
+      <trkpt lat="44.472528928890824" lon="20.571660110726953" />
+      <trkpt lat="44.472459778189659" lon="20.571876950562" />
+      <trkpt lat="44.472371684387326" lon="20.572093790397048" />
+      <trkpt lat="44.472333965823054" lon="20.57222387753427" />
+      <trkpt lat="44.472245955839753" lon="20.572423366829753" />
+      <trkpt lat="44.472170518711209" lon="20.57260550558567" />
+      <trkpt lat="44.472094997763634" lon="20.572744226083159" />
+      <trkpt lat="44.471912691369653" lon="20.572874313220382" />
+      <trkpt lat="44.471774306148291" lon="20.572926364839077" />
+      <trkpt lat="44.471736587584019" lon="20.572995766997337" />
+      <trkpt lat="44.471724014729261" lon="20.573282008990645" />
+      <trkpt lat="44.471768019720912" lon="20.573533466085792" />
+      <trkpt lat="44.47182459756732" lon="20.573776373639703" />
+      <trkpt lat="44.471900118514895" lon="20.574105950072408" />
+      <trkpt lat="44.471956696361303" lon="20.57430543936789" />
+      <trkpt lat="44.472032133489847" lon="20.574660999700427" />
+      <trkpt lat="44.472101284191012" lon="20.575016643851995" />
+      <trkpt lat="44.472183091565967" lon="20.57524211704731" />
+      <trkpt lat="44.47225852869451" lon="20.575467590242624" />
+      <trkpt lat="44.472315106540918" lon="20.575684430077672" />
+      <trkpt lat="44.47230882011354" lon="20.576031357049942" />
+      <trkpt lat="44.47230882011354" lon="20.576196145266294" />
+      <trkpt lat="44.472302533686161" lon="20.576525721698999" />
+      <trkpt lat="44.472252242267132" lon="20.576794613152742" />
+      <trkpt lat="44.472281076014042" lon="20.576955294236541" />
+      <trkpt lat="44.472294319421053" lon="20.577055709436536" />
+      <trkpt lat="44.472372103482485" lon="20.577267771586776" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_01-08 0,1 km</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova/P_STUB_01_20230119_095746.jpg" />
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova/P_Stub_08_nov105_20230119_094825.jpg" />
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.472366739064455" lon="20.57726408354938" />
+      <trkpt lat="44.471921911463141" lon="20.577450580894947" />
+      <trkpt lat="44.47187346406281" lon="20.577543452382088" />
+      <trkpt lat="44.471808755770326" lon="20.577610339969397" />
+      <trkpt lat="44.471768354997039" lon="20.577655015513301" />
+      <trkpt lat="44.471736000850797" lon="20.577755346894264" />
+      <trkpt lat="44.471678081899881" lon="20.577815528959036" />
+      <trkpt lat="44.471652181819081" lon="20.577866239473224" />
+      <trkpt lat="44.47162133641541" lon="20.577888870611787" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_01-10 0,9 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.472361374646425" lon="20.577271459624171" />
+      <trkpt lat="44.471957283094525" lon="20.57699385099113" />
+      <trkpt lat="44.471781179308891" lon="20.576855046674609" />
+      <trkpt lat="44.471676992252469" lon="20.576817831024528" />
+      <trkpt lat="44.470608467236161" lon="20.576211232692003" />
+      <trkpt lat="44.46983196772635" lon="20.575149413198233" />
+      <trkpt lat="44.469659300521016" lon="20.574894016608596" />
+      <trkpt lat="44.469597274437547" lon="20.574797373265028" />
+      <trkpt lat="44.469492165371776" lon="20.574596710503101" />
+      <trkpt lat="44.469360150396824" lon="20.57433276437223" />
+      <trkpt lat="44.469271218404174" lon="20.574165461584926" />
+      <trkpt lat="44.469155296683311" lon="20.574016850441694" />
+      <trkpt lat="44.469047505408525" lon="20.573790036141872" />
+      <trkpt lat="44.468926219269633" lon="20.573567077517509" />
+      <trkpt lat="44.46884005330503" lon="20.573384938761592" />
+      <trkpt lat="44.468741063028574" lon="20.57325342670083" />
+      <trkpt lat="44.468709630891681" lon="20.573149407282472" />
+      <trkpt lat="44.468640480190516" lon="20.572993252426386" />
+      <trkpt lat="44.468483235687017" lon="20.572932567447424" />
+      <trkpt lat="44.468357507139444" lon="20.572880515828729" />
+      <trkpt lat="44.468269497156143" lon="20.57287179864943" />
+      <trkpt lat="44.468206549063325" lon="20.572637608274817" />
+      <trkpt lat="44.468175116926432" lon="20.572472820058465" />
+      <trkpt lat="44.468112252652645" lon="20.572204012423754" />
+      <trkpt lat="44.468030529096723" lon="20.572047857567668" />
+      <trkpt lat="44.467936148867011" lon="20.571874435991049" />
+      <trkpt lat="44.467885857447982" lon="20.571709647774696" />
+      <trkpt lat="44.467767924070358" lon="20.571448719128966" />
+      <trkpt lat="44.467623336240649" lon="20.571275297552347" />
+      <trkpt lat="44.467447232455015" lon="20.570937003940344" />
+      <trkpt lat="44.46723978035152" lon="20.570798199623823" />
+      <trkpt lat="44.467025958001614" lon="20.570607427507639" />
+      <trkpt lat="44.46684985421598" lon="20.570407938212156" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_01-19 0,1 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.47236405685544" lon="20.577271459624171" />
+      <trkpt lat="44.472369253635406" lon="20.577375562861562" />
+      <trkpt lat="44.472369169816375" lon="20.577431302517653" />
+      <trkpt lat="44.472450390458107" lon="20.577660882845521" />
+      <trkpt lat="44.472601264715195" lon="20.577721651643515" />
+      <trkpt lat="44.4727270770818" lon="20.57773900218308" />
+      <trkpt lat="44.472903097048402" lon="20.577782336622477" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_02-04 0,66 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.478652412071824" lon="20.577399870380759" />
+      <trkpt lat="44.478719802573323" lon="20.577065264806151" />
+      <trkpt lat="44.478787193074822" lon="20.576786566525698" />
+      <trkpt lat="44.478733297437429" lon="20.576433436945081" />
+      <trkpt lat="44.478692896664143" lon="20.576024483889341" />
+      <trkpt lat="44.47857161052525" lon="20.575671438127756" />
+      <trkpt lat="44.478504220023751" lon="20.575336832553148" />
+      <trkpt lat="44.478450324386358" lon="20.574779268354177" />
+      <trkpt lat="44.478167351335287" lon="20.574203180149198" />
+      <trkpt lat="44.477884378284216" lon="20.573682747781277" />
+      <trkpt lat="44.477601405233145" lon="20.573348226025701" />
+      <trkpt lat="44.477453213185072" lon="20.573162399232388" />
+      <trkpt lat="44.4772376306355" lon="20.572920748963952" />
+      <trkpt lat="44.477008553221822" lon="20.572697706520557" />
+      <trkpt lat="44.476712085306644" lon="20.572456140071154" />
+      <trkpt lat="44.47646951302886" lon="20.572363184764981" />
+      <trkpt lat="44.476253930479288" lon="20.572177357971668" />
+      <trkpt lat="44.476078748703003" lon="20.572028663009405" />
+      <trkpt lat="44.475917061790824" lon="20.57180562056601" />
+      <trkpt lat="44.475792674347758" lon="20.570957539603114" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_02-13 0,13 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.477456565946341" lon="20.577718131244183" />
+      <trkpt lat="44.477603584527969" lon="20.577715532854199" />
+      <trkpt lat="44.477800307795405" lon="20.57772290892899" />
+      <trkpt lat="44.478007843717933" lon="20.577734056860209" />
+      <trkpt lat="44.478120999410748" lon="20.577730368822813" />
+      <trkpt lat="44.478236921131611" lon="20.57772290892899" />
+      <trkpt lat="44.478325853124261" lon="20.577711760997772" />
+      <trkpt lat="44.478395925834775" lon="20.577674629166722" />
+      <trkpt lat="44.478490222245455" lon="20.577633725479245" />
+      <trkpt lat="44.478541435673833" lon="20.57758167386055" />
+      <trkpt lat="44.478606143966317" lon="20.577503638342023" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_02-16 0,94 km</name>
+    <link href="C:/Users/Dejan/Desktop/KOSMAJ%20STAZE/slike%20stubova/P_Stub_16%20_106_nov_20230119_115524.jpg" />
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.478623829782009" lon="20.577503135427833" />
+      <trkpt lat="44.478715443983674" lon="20.57754403911531" />
+      <trkpt lat="44.478890625759959" lon="20.577466003596783" />
+      <trkpt lat="44.479003781452775" lon="20.577428787946701" />
+      <trkpt lat="44.479331178590655" lon="20.577343292534351" />
+      <trkpt lat="44.479661844670773" lon="20.577261485159397" />
+      <trkpt lat="44.479890922084451" lon="20.577112790197134" />
+      <trkpt lat="44.480241285637021" lon="20.576964095234871" />
+      <trkpt lat="44.480578154325485" lon="20.576778268441558" />
+      <trkpt lat="44.480901528149843" lon="20.576741136610508" />
+      <trkpt lat="44.481197996065021" lon="20.576685313135386" />
+      <trkpt lat="44.481507875025272" lon="20.576685313135386" />
+      <trkpt lat="44.48189863935113" lon="20.576703920960426" />
+      <trkpt lat="44.482141211628914" lon="20.576741136610508" />
+      <trkpt lat="44.482383783906698" lon="20.576815400272608" />
+      <trkpt lat="44.48269366286695" lon="20.57687122374773" />
+      <trkpt lat="44.483071016147733" lon="20.57687122374773" />
+      <trkpt lat="44.483326999470592" lon="20.576889747753739" />
+      <trkpt lat="44.483596477657557" lon="20.57690835557878" />
+      <trkpt lat="44.483839049935341" lon="20.57690835557878" />
+      <trkpt lat="44.484148928895593" lon="20.577019918709993" />
+      <trkpt lat="44.484472386538982" lon="20.577112790197134" />
+      <trkpt lat="44.485258022323251" lon="20.577422585338354" />
+      <trkpt lat="44.485612660646439" lon="20.57724991813302" />
+      <trkpt lat="44.485864201560616" lon="20.576469395309687" />
+      <trkpt lat="44.48651815764606" lon="20.576113751158118" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_02-20 0,45 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.478594828397036" lon="20.577561054378748" />
+      <trkpt lat="44.478558953851461" lon="20.577870849519968" />
+      <trkpt lat="44.478514026850462" lon="20.578093891963363" />
+      <trkpt lat="44.478469099849463" lon="20.578341661021113" />
+      <trkpt lat="44.478379245847464" lon="20.57867618277669" />
+      <trkpt lat="44.478361308574677" lon="20.578837282955647" />
+      <trkpt lat="44.478307412937284" lon="20.579072646796703" />
+      <trkpt lat="44.478244548663497" lon="20.57937003672123" />
+      <trkpt lat="44.478154694661498" lon="20.579605484381318" />
+      <trkpt lat="44.478064840659499" lon="20.580001948401332" />
+      <trkpt lat="44.477930143475533" lon="20.580386091023684" />
+      <trkpt lat="44.477840289473534" lon="20.580745339393616" />
+      <trkpt lat="44.477750435471535" lon="20.58106753975153" />
+      <trkpt lat="44.477651612833142" lon="20.581340119242668" />
+      <trkpt lat="44.477588748559356" lon="20.581600293517113" />
+      <trkpt lat="44.477570811286569" lon="20.581922410055995" />
+      <trkpt lat="44.477507947012782" lon="20.582182668149471" />
+      <trkpt lat="44.477434605360031" lon="20.582544011995196" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_03-18 0,25 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.47402928955853" lon="20.581058487296104" />
+      <trkpt lat="44.474091986194253" lon="20.58104264549911" />
+      <trkpt lat="44.474148564040661" lon="20.580999311059713" />
+      <trkpt lat="44.474211512133479" lon="20.580981960520148" />
+      <trkpt lat="44.474274376407266" lon="20.580955976620317" />
+      <trkpt lat="44.474192652851343" lon="20.580556998029351" />
+      <trkpt lat="44.474469255656004" lon="20.580435544252396" />
+      <trkpt lat="44.474620213732123" lon="20.580105967819691" />
+      <trkpt lat="44.474834036082029" lon="20.579811092466116" />
+      <trkpt lat="44.474991196766496" lon="20.579472798854113" />
+      <trkpt lat="44.47521130554378" lon="20.579351428896189" />
+      <trkpt lat="44.475439628586173" lon="20.579120172187686" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_03-20 0,74 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.477432845160365" lon="20.582546442747116" />
+      <trkpt lat="44.477383811026812" lon="20.582511238753796" />
+      <trkpt lat="44.477325389161706" lon="20.582492630928755" />
+      <trkpt lat="44.4772894307971" lon="20.582461701706052" />
+      <trkpt lat="44.477231092751026" lon="20.58238735422492" />
+      <trkpt lat="44.477159176021814" lon="20.582337817177176" />
+      <trkpt lat="44.477096311748028" lon="20.582294398918748" />
+      <trkpt lat="44.477046942338347" lon="20.582263469696045" />
+      <trkpt lat="44.477019952610135" lon="20.582207730039954" />
+      <trkpt lat="44.476992962881923" lon="20.582151906564832" />
+      <trkpt lat="44.476934624835849" lon="20.582071356475353" />
+      <trkpt lat="44.476916687563062" lon="20.582021819427609" />
+      <trkpt lat="44.476889697834849" lon="20.581959877163172" />
+      <trkpt lat="44.476862708106637" lon="20.581866921856999" />
+      <trkpt lat="44.476808812469244" lon="20.581829790025949" />
+      <trkpt lat="44.476736979559064" lon="20.581829790025949" />
+      <trkpt lat="44.476674115285277" lon="20.581835992634296" />
+      <trkpt lat="44.476570766419172" lon="20.581854600459337" />
+      <trkpt lat="44.476476470008492" lon="20.581873124465346" />
+      <trkpt lat="44.476368678733706" lon="20.581916542723775" />
+      <trkpt lat="44.476278824731708" lon="20.581922745332122" />
+      <trkpt lat="44.476108169183135" lon="20.581879327073693" />
+      <trkpt lat="44.47593298740685" lon="20.58184839785099" />
+      <trkpt lat="44.475789237767458" lon="20.581811182200909" />
+      <trkpt lat="44.475591592490673" lon="20.581774050369859" />
+      <trkpt lat="44.475425463169813" lon="20.581724429503083" />
+      <trkpt lat="44.475295208394527" lon="20.581718310713768" />
+      <trkpt lat="44.475097563117743" lon="20.581643963232636" />
+      <trkpt lat="44.475025730207562" lon="20.581575818359852" />
+      <trkpt lat="44.474899917840958" lon="20.581563413143158" />
+      <trkpt lat="44.474746780470014" lon="20.581512618809938" />
+      <trkpt lat="44.474630188196898" lon="20.581443635746837" />
+      <trkpt lat="44.474471183493733" lon="20.581339532509446" />
+      <trkpt lat="44.474387615919113" lon="20.581239201128483" />
+      <trkpt lat="44.474266329780221" lon="20.581176001578569" />
+      <trkpt lat="44.474185528233647" lon="20.581138869747519" />
+      <trkpt lat="44.474032893776894" lon="20.581061001867056" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_03-34 0,23 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.474025685340166" lon="20.581061001867056" />
+      <trkpt lat="44.473898531869054" lon="20.580973662436008" />
+      <trkpt lat="44.473766516894102" lon="20.580739472061396" />
+      <trkpt lat="44.473669454455376" lon="20.580512741580606" />
+      <trkpt lat="44.47352260351181" lon="20.580230271443725" />
+      <trkpt lat="44.473385224118829" lon="20.580222811549902" />
+      <trkpt lat="44.473263937979937" lon="20.580326914787292" />
+      <trkpt lat="44.473148100078106" lon="20.580245107412338" />
+      <trkpt lat="44.473010636866093" lon="20.580126168206334" />
+      <trkpt lat="44.472843501716852" lon="20.579888289794326" />
+      <trkpt lat="44.472687263041735" lon="20.579709839075804" />
+      <trkpt lat="44.472514009103179" lon="20.579595845192671" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_04-05 0,34 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.475794350728393" lon="20.570937255397439" />
+      <trkpt lat="44.475776245817542" lon="20.57086450047791" />
+      <trkpt lat="44.475742131471634" lon="20.570814963430166" />
+      <trkpt lat="44.475695360451937" lon="20.570777747780085" />
+      <trkpt lat="44.475648673251271" lon="20.570780262351036" />
+      <trkpt lat="44.475600142031908" lon="20.570797612890601" />
+      <trkpt lat="44.475540881976485" lon="20.570819908753037" />
+      <trkpt lat="44.475474413484335" lon="20.570852095261216" />
+      <trkpt lat="44.475425882264972" lon="20.570874391123652" />
+      <trkpt lat="44.475386403501034" lon="20.57089920155704" />
+      <trkpt lat="44.475346840918064" lon="20.570938847959042" />
+      <trkpt lat="44.475309122353792" lon="20.57097103446722" />
+      <trkpt lat="44.475262435153127" lon="20.571025600656867" />
+      <trkpt lat="44.475212059915066" lon="20.571047896519303" />
+      <trkpt lat="44.475183309987187" lon="20.571067677810788" />
+      <trkpt lat="44.475131258368492" lon="20.571080083027482" />
+      <trkpt lat="44.475061185657978" lon="20.571097433567047" />
+      <trkpt lat="44.47499287314713" lon="20.571109838783741" />
+      <trkpt lat="44.474928248673677" lon="20.571114784106612" />
+      <trkpt lat="44.474874353036284" lon="20.57110732421279" />
+      <trkpt lat="44.474813248962164" lon="20.571092488244176" />
+      <trkpt lat="44.474766561761498" lon="20.571080083027482" />
+      <trkpt lat="44.474706295877695" lon="20.571065247058868" />
+      <trkpt lat="44.474650640040636" lon="20.571038005873561" />
+      <trkpt lat="44.474596660584211" lon="20.571018140763044" />
+      <trkpt lat="44.474551817402244" lon="20.571008250117302" />
+      <trkpt lat="44.474506890401244" lon="20.57100573554635" />
+      <trkpt lat="44.474463723599911" lon="20.570990899577737" />
+      <trkpt lat="44.474409827962518" lon="20.57097103446722" />
+      <trkpt lat="44.474363140761852" lon="20.57097103446722" />
+      <trkpt lat="44.474303880706429" lon="20.570956198498607" />
+      <trkpt lat="44.474240932613611" lon="20.570966089144349" />
+      <trkpt lat="44.474165495485067" lon="20.570978494361043" />
+      <trkpt lat="44.474095422774553" lon="20.570995844900608" />
+      <trkpt lat="44.474034318700433" lon="20.571013195440173" />
+      <trkpt lat="44.473881768062711" lon="20.571052841842175" />
+      <trkpt lat="44.473795602098107" lon="20.57109366171062" />
+      <trkpt lat="44.473690493032336" lon="20.571134565398097" />
+      <trkpt lat="44.473617738112807" lon="20.571160633116961" />
+      <trkpt lat="44.473523357883096" lon="20.571182928979397" />
+      <trkpt lat="44.473421014845371" lon="20.571187874302268" />
+      <trkpt lat="44.473358988761902" lon="20.571195334196091" />
+      <trkpt lat="44.473267374560237" lon="20.571184186264873" />
+      <trkpt lat="44.473178442567587" lon="20.571169350296259" />
+      <trkpt lat="44.473084146156907" lon="20.571158202365041" />
+      <trkpt lat="44.472997896373272" lon="20.571143282577395" />
+      <trkpt lat="44.472918268293142" lon="20.571210840716958" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_04-14 0,57 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.475796110928059" lon="20.570934740826488" />
+      <trkpt lat="44.476100793108344" lon="20.570499552413821" />
+      <trkpt lat="44.476437661796808" lon="20.570053467527032" />
+      <trkpt lat="44.476693645119667" lon="20.569625990465283" />
+      <trkpt lat="44.476922722533345" lon="20.569235729053617" />
+      <trkpt lat="44.47709790430963" lon="20.568919731304049" />
+      <trkpt lat="44.477219190448523" lon="20.568659557029605" />
+      <trkpt lat="44.477340476587415" lon="20.568473730236292" />
+      <trkpt lat="44.47763686068356" lon="20.56834364309907" />
+      <trkpt lat="44.477771641686559" lon="20.568213555961847" />
+      <trkpt lat="44.478256702423096" lon="20.568101992830634" />
+      <trkpt lat="44.478431884199381" lon="20.567990513518453" />
+      <trkpt lat="44.478377988561988" lon="20.567655991762877" />
+      <trkpt lat="44.478377988561988" lon="20.567191299051046" />
+      <trkpt lat="44.4784049782902" lon="20.566689558327198" />
+      <trkpt lat="44.478364493697882" lon="20.566336428746581" />
+      <trkpt lat="44.47831311263144" lon="20.565833263099194" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_05-06 0,28 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.472918268293142" lon="20.57121335528791" />
+      <trkpt lat="44.472819529473782" lon="20.571256522089243" />
+      <trkpt lat="44.472729759290814" lon="20.571256522089243" />
+      <trkpt lat="44.472568072378635" lon="20.571306142956018" />
+      <trkpt lat="44.472621968016028" lon="20.571095505729318" />
+      <trkpt lat="44.472738727927208" lon="20.570934405550361" />
+      <trkpt lat="44.472657842561603" lon="20.570674231275916" />
+      <trkpt lat="44.472594978287816" lon="20.570389246568084" />
+      <trkpt lat="44.472541082650423" lon="20.570042319595814" />
+      <trkpt lat="44.472550051286817" lon="20.569831682369113" />
+      <trkpt lat="44.472693800926208" lon="20.569534292444587" />
+      <trkpt lat="44.472792623564601" lon="20.569162638857961" />
+      <trkpt lat="44.472895888611674" lon="20.569037329405546" />
+      <trkpt lat="44.472946180030704" lon="20.568575570359826" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_06-07 0,57 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.472162555903196" lon="20.563485911116004" />
+      <trkpt lat="44.472315777093172" lon="20.563638042658567" />
+      <trkpt lat="44.472261881455779" lon="20.564202228561044" />
+      <trkpt lat="44.472163058817387" lon="20.564653594046831" />
+      <trkpt lat="44.472037246450782" lon="20.565142510458827" />
+      <trkpt lat="44.471893077716231" lon="20.565542746335268" />
+      <trkpt lat="44.471830129623413" lon="20.565852457657456" />
+      <trkpt lat="44.471848150715232" lon="20.566100310534239" />
+      <trkpt lat="44.471983350813389" lon="20.566070219501853" />
+      <trkpt lat="44.472145037725568" lon="20.56604515761137" />
+      <trkpt lat="44.472342683002353" lon="20.566170550882816" />
+      <trkpt lat="44.472575783729553" lon="20.566187063232064" />
+      <trkpt lat="44.472791366279125" lon="20.566125037148595" />
+      <trkpt lat="44.472935618832707" lon="20.566170550882816" />
+      <trkpt lat="44.472998483106494" lon="20.566270798444748" />
+      <trkpt lat="44.473070316016674" lon="20.566396191716194" />
+      <trkpt lat="44.473151201382279" lon="20.566797349601984" />
+      <trkpt lat="44.47317810729146" lon="20.567123321816325" />
+      <trkpt lat="44.473124211654067" lon="20.567374108359218" />
+      <trkpt lat="44.473115243017673" lon="20.567712569609284" />
+      <trkpt lat="44.47306134738028" lon="20.567975845187902" />
+      <trkpt lat="44.472962524741888" lon="20.568151362240314" />
+      <trkpt lat="44.473007451742887" lon="20.568439699709415" />
+      <trkpt lat="44.472949784249067" lon="20.568578168749809" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_06-14 0,68 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.47294794023037" lon="20.568580767139792" />
+      <trkpt lat="44.473151201382279" lon="20.568872289732099" />
+      <trkpt lat="44.473245497792959" lon="20.568909924477339" />
+      <trkpt lat="44.473425205796957" lon="20.568891065195203" />
+      <trkpt lat="44.473537523299456" lon="20.568840941414237" />
+      <trkpt lat="44.473609356209636" lon="20.568872289732099" />
+      <trkpt lat="44.473730642348528" lon="20.568897351622581" />
+      <trkpt lat="44.473820496350527" lon="20.568891065195203" />
+      <trkpt lat="44.474031971767545" lon="20.568916127085686" />
+      <trkpt lat="44.474189216271043" lon="20.568953761830926" />
+      <trkpt lat="44.474292481318116" lon="20.568815879523754" />
+      <trkpt lat="44.474476631730795" lon="20.568364514037967" />
+      <trkpt lat="44.474737141281366" lon="20.568013479933143" />
+      <trkpt lat="44.474975606426597" lon="20.567754562944174" />
+      <trkpt lat="44.47533049620688" lon="20.567453736439347" />
+      <trkpt lat="44.475617911666632" lon="20.567140253260732" />
+      <trkpt lat="44.475882947444916" lon="20.566870775073767" />
+      <trkpt lat="44.476238591596484" lon="20.566475819796324" />
+      <trkpt lat="44.476755168288946" lon="20.566212544217706" />
+      <trkpt lat="44.477065047249198" lon="20.565974330529571" />
+      <trkpt lat="44.477421278133988" lon="20.565723041072488" />
+      <trkpt lat="44.477839032188058" lon="20.565797388553619" />
+      <trkpt lat="44.478108510375023" lon="20.565797388553619" />
+      <trkpt lat="44.478314872831106" lon="20.565838208422065" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_07-43 0,5 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.472146797925234" lon="20.563366552814841" />
+      <trkpt lat="44.472631942480803" lon="20.562660293653607" />
+      <trkpt lat="44.473197804763913" lon="20.561805423349142" />
+      <trkpt lat="44.473709855228662" lon="20.561024816706777" />
+      <trkpt lat="44.474060218781233" lon="20.560021167621017" />
+      <trkpt lat="44.474060218781233" lon="20.559240644797683" />
+      <trkpt lat="44.473979417234659" lon="20.558497169986367" />
+      <trkpt lat="44.473871542140841" lon="20.558162648230791" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_07-49 0,4 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.471556376665831" lon="20.560104232281446" />
+      <trkpt lat="44.47209089063108" lon="20.560472868382931" />
+      <trkpt lat="44.472241764888167" lon="20.561060858890414" />
+      <trkpt lat="44.472127351909876" lon="20.561834760010242" />
+      <trkpt lat="44.472073456272483" lon="20.562156876549125" />
+      <trkpt lat="44.472046550363302" lon="20.562541019171476" />
+      <trkpt lat="44.472037581726909" lon="20.56293748319149" />
+      <trkpt lat="44.472055518999696" lon="20.563247194513679" />
+      <trkpt lat="44.472154341638088" lon="20.563457831740379" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_08-41 0,2 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.471625695005059" lon="20.577890798449516" />
+      <trkpt lat="44.471526704728603" lon="20.577993644401431" />
+      <trkpt lat="44.471477335318923" lon="20.578098082914948" />
+      <trkpt lat="44.471417823806405" lon="20.578223979100585" />
+      <trkpt lat="44.471373818814754" lon="20.578423468396068" />
+      <trkpt lat="44.471310870721936" lon="20.578570906072855" />
+      <trkpt lat="44.471204001456499" lon="20.578735694289207" />
+      <trkpt lat="44.471122277900577" lon="20.57896988466382" />
+      <trkpt lat="44.471078272908926" lon="20.579073904082179" />
+      <trkpt lat="44.47100275196135" lon="20.579308094456792" />
+      <trkpt lat="44.470888506621122" lon="20.579496435821056" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_08-42 0,2 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.471614211797714" lon="20.577887697145343" />
+      <trkpt lat="44.471698282286525" lon="20.578104704618454" />
+      <trkpt lat="44.471754860132933" lon="20.578156756237149" />
+      <trkpt lat="44.471792578697205" lon="20.578201347962022" />
+      <trkpt lat="44.471800709143281" lon="20.57831659913063" />
+      <trkpt lat="44.471803391352296" lon="20.578409554436803" />
+      <trkpt lat="44.47178989648819" lon="20.578513657674193" />
+      <trkpt lat="44.471762906759977" lon="20.578647432848811" />
+      <trkpt lat="44.471703646704555" lon="20.578829571604729" />
+      <trkpt lat="44.471717141568661" lon="20.578974578529596" />
+      <trkpt lat="44.471765672788024" lon="20.579056302085519" />
+      <trkpt lat="44.471811437979341" lon="20.579149257391691" />
+      <trkpt lat="44.471797943115234" lon="20.579387135803699" />
+      <trkpt lat="44.471803391352296" lon="20.579550666734576" />
+      <trkpt lat="44.471803391352296" lon="20.579732805490494" />
+      <trkpt lat="44.471811437979341" lon="20.579907484352589" />
+      <trkpt lat="44.471808755770326" lon="20.580026507377625" />
+      <trkpt lat="44.47178989648819" lon="20.580216022208333" />
+      <trkpt lat="44.471800709143281" lon="20.580331273376942" />
+      <trkpt lat="44.471828453242779" lon="20.580440992489457" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_09-24 1 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.468168159946799" lon="20.56183903478086" />
+      <trkpt lat="44.468045867979527" lon="20.561703331768513" />
+      <trkpt lat="44.467991972342134" lon="20.561424549669027" />
+      <trkpt lat="44.467857191339135" lon="20.561275854706764" />
+      <trkpt lat="44.467574218288064" lon="20.561164375394583" />
+      <trkpt lat="44.467223938554525" lon="20.56101568043232" />
+      <trkpt lat="44.467021767050028" lon="20.560904117301106" />
+      <trkpt lat="44.466846585273743" lon="20.560755506157875" />
+      <trkpt lat="44.466711888089776" lon="20.560365160927176" />
+      <trkpt lat="44.466509716585279" lon="20.560123594477773" />
+      <trkpt lat="44.466334534808993" lon="20.559696117416024" />
+      <trkpt lat="44.466105457395315" lon="20.559305772185326" />
+      <trkpt lat="44.465903369709849" lon="20.558841163292527" />
+      <trkpt lat="44.465687787160277" lon="20.558246467262506" />
+      <trkpt lat="44.465458709746599" lon="20.557781774550676" />
+      <trkpt lat="44.465148830786347" lon="20.557298557832837" />
+      <trkpt lat="44.464892763644457" lon="20.556852556765079" />
+      <trkpt lat="44.464798467233777" lon="20.556610906496644" />
+      <trkpt lat="44.464569389820099" lon="20.55631360039115" />
+      <trkpt lat="44.464299911633134" lon="20.556090557947755" />
+      <trkpt lat="44.464003443717957" lon="20.555774560198188" />
+      <trkpt lat="44.463693480938673" lon="20.555551601573825" />
+      <trkpt lat="44.463464487344027" lon="20.555440038442612" />
+      <trkpt lat="44.463087134063244" lon="20.555235603824258" />
+      <trkpt lat="44.462763760238886" lon="20.555124124512076" />
+      <trkpt lat="44.462265204638243" lon="20.5548638664186" />
+      <trkpt lat="44.461767235770822" lon="20.554653480648994" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_09-49 0,4 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.468169920146465" lon="20.561844063922763" />
+      <trkpt lat="44.468517685309052" lon="20.561457574367523" />
+      <trkpt lat="44.46930818259716" lon="20.561209721490741" />
+      <trkpt lat="44.470026846975088" lon="20.561036299914122" />
+      <trkpt lat="44.471097635105252" lon="20.560577977448702" />
+      <trkpt lat="44.471569284796715" lon="20.560095347464085" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_09_10 0,8 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.468168159946799" lon="20.561840292066336" />
+      <trkpt lat="44.468177631497383" lon="20.563104618340731" />
+      <trkpt lat="44.468150725588202" lon="20.563810793682933" />
+      <trkpt lat="44.468150725588202" lon="20.565000269562006" />
+      <trkpt lat="44.468150725588202" lon="20.566041050478816" />
+      <trkpt lat="44.467827351763844" lon="20.567007483914495" />
+      <trkpt lat="44.467557789757848" lon="20.568048264831305" />
+      <trkpt lat="44.467692570760846" lon="20.568717392161489" />
+      <trkpt lat="44.467773456126451" lon="20.569423567503691" />
+      <trkpt lat="44.467800362035632" lon="20.570129826664925" />
+      <trkpt lat="44.467639932408929" lon="20.570258656516671" />
+      <trkpt lat="44.46747824549675" lon="20.570314396172762" />
+      <trkpt lat="44.467298537492752" lon="20.570438280701637" />
+      <trkpt lat="44.466885309666395" lon="20.570401148870587" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_10-15 0,5 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.463421320542693" lon="20.566677572205663" />
+      <trkpt lat="44.463919624686241" lon="20.567416353151202" />
+      <trkpt lat="44.46494372561574" lon="20.568345654755831" />
+      <trkpt lat="44.46529408916831" lon="20.569126261398196" />
+      <trkpt lat="44.465752243995667" lon="20.569906868040562" />
+      <trkpt lat="44.466398991644382" lon="20.570278521627188" />
+      <trkpt lat="44.466884052380919" lon="20.570427216589451" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_12-15 0,53m</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.459085362032056" lon="20.565518187358975" />
+      <trkpt lat="44.459467157721519" lon="20.565642155706882" />
+      <trkpt lat="44.459705203771591" lon="20.565834185108542" />
+      <trkpt lat="44.459920786321163" lon="20.566013809293509" />
+      <trkpt lat="44.460235191509128" lon="20.566292591392994" />
+      <trkpt lat="44.460540628060699" lon="20.566509431228042" />
+      <trkpt lat="44.460796611383557" lon="20.566670531406999" />
+      <trkpt lat="44.461061647161841" lon="20.566800618544221" />
+      <trkpt lat="44.461189638823271" lon="20.566825428977609" />
+      <trkpt lat="44.461544444784522" lon="20.566955516114831" />
+      <trkpt lat="44.461820544674993" lon="20.567060792818666" />
+      <trkpt lat="44.461941830813885" lon="20.567166153341532" />
+      <trkpt lat="44.46216638199985" lon="20.567054590210319" />
+      <trkpt lat="44.462413396686316" lon="20.566912097856402" />
+      <trkpt lat="44.462613221257925" lon="20.566819226369262" />
+      <trkpt lat="44.46283333003521" lon="20.566658126190305" />
+      <trkpt lat="44.463035501539707" lon="20.566497026011348" />
+      <trkpt lat="44.46327798999846" lon="20.566540444269776" />
+      <trkpt lat="44.463424924761057" lon="20.566682517528534" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_12-26 0,35 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.459069268777966" lon="20.565515086054802" />
+      <trkpt lat="44.458762994036078" lon="20.565478792414069" />
+      <trkpt lat="44.458475494757295" lon="20.565429171547294" />
+      <trkpt lat="44.458026392385364" lon="20.565230939537287" />
+      <trkpt lat="44.457792788743973" lon="20.565206212922931" />
+      <trkpt lat="44.457505373284221" lon="20.565255749970675" />
+      <trkpt lat="44.457181915640831" lon="20.565280560404062" />
+      <trkpt lat="44.457020228728652" lon="20.565181402489543" />
+      <trkpt lat="44.456642959266901" lon="20.565007980912924" />
+      <trkpt lat="44.45597106590867" lon="20.564845874905586" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_12-44 0,6 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.459071112796664" lon="20.56551257148385" />
+      <trkpt lat="44.458986120298505" lon="20.566067453473806" />
+      <trkpt lat="44.460306605324149" lon="20.568982344120741" />
+      <trkpt lat="44.460991322994232" lon="20.569708468392491" />
+      <trkpt lat="44.461880642920732" lon="20.570266032591462" />
+      <trkpt lat="44.462518841028214" lon="20.570937590673566" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_13-18 0,25km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.475432420149446" lon="20.579126458615065" />
+      <trkpt lat="44.475771551951766" lon="20.57895571924746" />
+      <trkpt lat="44.476010520011187" lon="20.578842982649803" />
+      <trkpt lat="44.476255774497986" lon="20.578643493354321" />
+      <trkpt lat="44.476507315412164" lon="20.578409302979708" />
+      <trkpt lat="44.476721053943038" lon="20.57826186530292" />
+      <trkpt lat="44.476821720600128" lon="20.578123144805431" />
+      <trkpt lat="44.477016599848866" lon="20.578001691028476" />
+      <trkpt lat="44.477079547941685" lon="20.577966989949346" />
+      <trkpt lat="44.477161271497607" lon="20.57791493833065" />
+      <trkpt lat="44.477211562916636" lon="20.577871603891253" />
+      <trkpt lat="44.477274427190423" lon="20.577845619991422" />
+      <trkpt lat="44.47733729146421" lon="20.577819552272558" />
+      <trkpt lat="44.477387666702271" lon="20.577784851193428" />
+      <trkpt lat="44.477452961727977" lon="20.577718131244183" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_13-19 0,50 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.472934613004327" lon="20.57777370326221" />
+      <trkpt lat="44.47376006282866" lon="20.577919464558363" />
+      <trkpt lat="44.474478643387556" lon="20.577944191172719" />
+      <trkpt lat="44.475017683580518" lon="20.577944191172719" />
+      <trkpt lat="44.475610535591841" lon="20.577696422114968" />
+      <trkpt lat="44.476077659055591" lon="20.577522916719317" />
+      <trkpt lat="44.476436991244555" lon="20.577151263132691" />
+      <trkpt lat="44.476534137502313" lon="20.577198704704642" />
+      <trkpt lat="44.476701691746712" lon="20.577369276434183">
+        <ele>536.4921875</ele>
+      </trkpt>
+      <trkpt lat="44.476845441386104" lon="20.577531466260552">
+        <ele>535.04296875</ele>
+      </trkpt>
+      <trkpt lat="44.477016096934676" lon="20.577596258372068">
+        <ele>533.12890625</ele>
+      </trkpt>
+      <trkpt lat="44.477191278710961" lon="20.577596258372068">
+        <ele>529.875</ele>
+      </trkpt>
+      <trkpt lat="44.477370986714959" lon="20.577615788206458">
+        <ele>525.6328125</ele>
+      </trkpt>
+      <trkpt lat="44.477465283125639" lon="20.577706564217806">
+        <ele>522.93359375</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_14-16 1,3km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.47831311263144" lon="20.565838208422065" />
+      <trkpt lat="44.478647718206048" lon="20.566066531464458" />
+      <trkpt lat="44.479007050395012" lon="20.566165605559945" />
+      <trkpt lat="44.479231601580977" lon="20.566150182858109" />
+      <trkpt lat="44.479420278221369" lon="20.566661227494478" />
+      <trkpt lat="44.479546006768942" lon="20.566834732890129" />
+      <trkpt lat="44.479599902406335" lon="20.567156849429011" />
+      <trkpt lat="44.479653798043728" lon="20.567355081439018" />
+      <trkpt lat="44.479546006768942" lon="20.567591954022646" />
+      <trkpt lat="44.479748094454408" lon="20.567642077803612" />
+      <trkpt lat="44.479887317866087" lon="20.567623302340508" />
+      <trkpt lat="44.480156879872084" lon="20.56777635589242" />
+      <trkpt lat="44.48026467114687" lon="20.56777635589242" />
+      <trkpt lat="44.480516212061048" lon="20.568024124950171" />
+      <trkpt lat="44.480713773518801" lon="20.568296788260341" />
+      <trkpt lat="44.4808036275208" lon="20.568693252280354" />
+      <trkpt lat="44.480911418795586" lon="20.568866673856974" />
+      <trkpt lat="44.480947377160192" lon="20.5691640637815" />
+      <trkpt lat="44.481019210070372" lon="20.569585338234901" />
+      <trkpt lat="44.480983838438988" lon="20.569808799773455" />
+      <trkpt lat="44.480943437665701" lon="20.570090934634209" />
+      <trkpt lat="44.481365634128451" lon="20.569971827790141" />
+      <trkpt lat="44.481540229171515" lon="20.570031423121691" />
+      <trkpt lat="44.481719937175512" lon="20.569932265207171" />
+      <trkpt lat="44.48211514391005" lon="20.570229655131698" />
+      <trkpt lat="44.482312789186835" lon="20.570304002612829" />
+      <trkpt lat="44.482492497190833" lon="20.570427887141705" />
+      <trkpt lat="44.482636246830225" lon="20.570750003680587" />
+      <trkpt lat="44.482923662289977" lon="20.570923509076238" />
+      <trkpt lat="44.483175203204155" lon="20.571096930652857" />
+      <trkpt lat="44.483462618663907" lon="20.571220815181732" />
+      <trkpt lat="44.483714159578085" lon="20.571319973096251" />
+      <trkpt lat="44.483875846490264" lon="20.571443857625127" />
+      <trkpt lat="44.484199304133654" lon="20.571865132078528" />
+      <trkpt lat="44.484540615230799" lon="20.572162522003055" />
+      <trkpt lat="44.484792156144977" lon="20.572410291060805" />
+      <trkpt lat="44.484953843057156" lon="20.572732491418719" />
+      <trkpt lat="44.485259279608727" lon="20.573574956506491" />
+      <trkpt lat="44.48554677888751" lon="20.573946693912148" />
+      <trkpt lat="44.485672507435083" lon="20.574392778798938" />
+      <trkpt lat="44.486172320321202" lon="20.575237758457661" />
+      <trkpt lat="44.486430147662759" lon="20.575784174725413" />
+      <trkpt lat="44.486516397446394" lon="20.576121127232909" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_15-24  1,2 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.461767235770822" lon="20.554653480648994" />
+      <trkpt lat="44.461706131696701" lon="20.554683236405253" />
+      <trkpt lat="44.461416285485029" lon="20.554770994931459" />
+      <trkpt lat="44.461119817569852" lon="20.5548638664186" />
+      <trkpt lat="44.460796443745494" lon="20.554901082068682" />
+      <trkpt lat="44.460729053243995" lon="20.555179864168167" />
+      <trkpt lat="44.460661746561527" lon="20.555495778098702" />
+      <trkpt lat="44.460661746561527" lon="20.555997602641582" />
+      <trkpt lat="44.460675157606602" lon="20.556499427184463" />
+      <trkpt lat="44.460836844518781" lon="20.557056991383433" />
+      <trkpt lat="44.460958130657673" lon="20.557131338864565" />
+      <trkpt lat="44.461119817569852" lon="20.557372905313969" />
+      <trkpt lat="44.461281504482031" lon="20.557633163407445" />
+      <trkpt lat="44.461537571623921" lon="20.55789333768189" />
+      <trkpt lat="44.4617666490376" lon="20.55794907733798" />
+      <trkpt lat="44.462036127224565" lon="20.558172119781375" />
+      <trkpt lat="44.462292110547423" lon="20.55848803371191" />
+      <trkpt lat="44.462467292323709" lon="20.558729683980346" />
+      <trkpt lat="44.462642474099994" lon="20.559045597910881" />
+      <trkpt lat="44.462817655876279" lon="20.559250032529235" />
+      <trkpt lat="44.462938942015171" lon="20.559566030278802" />
+      <trkpt lat="44.46300633251667" lon="20.559900552034378" />
+      <trkpt lat="44.46300633251667" lon="20.560272205621004" />
+      <trkpt lat="44.462992837652564" lon="20.560718290507793" />
+      <trkpt lat="44.462952436879277" lon="20.561350202187896" />
+      <trkpt lat="44.462952436879277" lon="20.561777679249644" />
+      <trkpt lat="44.462952436879277" lon="20.562279503792524" />
+      <trkpt lat="44.463019743561745" lon="20.562483938410878" />
+      <trkpt lat="44.463127618655562" lon="20.562688373029232" />
+      <trkpt lat="44.463275810703635" lon="20.562892807647586" />
+      <trkpt lat="44.46345099247992" lon="20.563227329403162" />
+      <trkpt lat="44.463585689663887" lon="20.563524719327688" />
+      <trkpt lat="44.463747376576066" lon="20.563710546121001" />
+      <trkpt lat="44.463828261941671" lon="20.563914980739355" />
+      <trkpt lat="44.463922558352351" lon="20.564156547188759" />
+      <trkpt lat="44.464016938582063" lon="20.564342457801104" />
+      <trkpt lat="44.46405733935535" lon="20.564546892419457" />
+      <trkpt lat="44.464111234992743" lon="20.564788458868861" />
+      <trkpt lat="44.464097740128636" lon="20.564937153831124" />
+      <trkpt lat="44.46405733935535" lon="20.5652716755867" />
+      <trkpt lat="44.463909147307277" lon="20.565587673336267" />
+      <trkpt lat="44.463814767077565" lon="20.565810715779662" />
+      <trkpt lat="44.463599184527993" lon="20.566126629710197" />
+      <trkpt lat="44.463464487344027" lon="20.566424019634724" />
+      <trkpt lat="44.463426768779755" lon="20.566538767889142" />
+      <trkpt lat="44.463423164561391" lon="20.566675057634711" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_16-21 1,6 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.486505752429366" lon="20.576122552156448" />
+      <trkpt lat="44.486744636669755" lon="20.576721020042896" />
+      <trkpt lat="44.486889308318496" lon="20.577597012743354" />
+      <trkpt lat="44.486845303326845" lon="20.577943939715624" />
+      <trkpt lat="44.486411372199655" lon="20.578507706522942" />
+      <trkpt lat="44.486122112721205" lon="20.578976003453135" />
+      <trkpt lat="44.485781639814377" lon="20.579735403880477" />
+      <trkpt lat="44.485637890174985" lon="20.580168999731541" />
+      <trkpt lat="44.485521130263805" lon="20.580491200089455" />
+      <trkpt lat="44.485512161627412" lon="20.5809620115906" />
+      <trkpt lat="44.485521130263805" lon="20.581358475610614" />
+      <trkpt lat="44.485539067536592" lon="20.581680675968528" />
+      <trkpt lat="44.485512161627412" lon="20.581903634592891" />
+      <trkpt lat="44.485332453623414" lon="20.58231258764863" />
+      <trkpt lat="44.485125839710236" lon="20.582857746630907" />
+      <trkpt lat="44.484937163069844" lon="20.583241805434227" />
+      <trkpt lat="44.484793497249484" lon="20.583675485104322" />
+      <trkpt lat="44.484649747610092" lon="20.583948064595461" />
+      <trkpt lat="44.484227551147342" lon="20.584257775917649" />
+      <trkpt lat="44.483850197866559" lon="20.584245454519987" />
+      <trkpt lat="44.483490949496627" lon="20.584307396784425" />
+      <trkpt lat="44.48305475525558" lon="20.584121569991112" />
+      <trkpt lat="44.48273129761219" lon="20.584121569991112" />
+      <trkpt lat="44.482623338699341" lon="20.584012689068913" />
+      <trkpt lat="44.482520073652267" lon="20.583987627178431" />
+      <trkpt lat="44.482524516060948" lon="20.584344947710633" />
+      <trkpt lat="44.482623338699341" lon="20.584626998752356" />
+      <trkpt lat="44.48270439170301" lon="20.584939308464527" />
+      <trkpt lat="44.482812182977796" lon="20.585255222395062" />
+      <trkpt lat="44.482866078615189" lon="20.585589744150639" />
+      <trkpt lat="44.482825677841902" lon="20.586035829037428" />
+      <trkpt lat="44.482758287340403" lon="20.586221655830741" />
+      <trkpt lat="44.482663990929723" lon="20.586519045755267" />
+      <trkpt lat="44.482488809153438" lon="20.586779220029712" />
+      <trkpt lat="44.482443714514375" lon="20.586833534762263" />
+      <trkpt lat="44.482246236875653" lon="20.586797827854753" />
+      <trkpt lat="44.482057560235262" lon="20.586835043504834" />
+      <trkpt lat="44.481788082048297" lon="20.586797827854753" />
+      <trkpt lat="44.481532098725438" lon="20.58661200106144" />
+      <trkpt lat="44.481181735172868" lon="20.586630525067449" />
+      <trkpt lat="44.480790970847011" lon="20.586742088198662" />
+      <trkpt lat="44.480271963402629" lon="20.586853567510843" />
+      <trkpt lat="44.480056380853057" lon="20.586927914991975" />
+      <trkpt lat="44.479773407801986" lon="20.587058002129197" />
+      <trkpt lat="44.479379039257765" lon="20.587118770927191" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_17-26 0,66 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.45597106590867" lon="20.564849562942982" />
+      <trkpt lat="44.455636879429221" lon="20.564661053940654" />
+      <trkpt lat="44.454882256686687" lon="20.564462738111615" />
+      <trkpt lat="44.454361237585545" lon="20.564140621572733" />
+      <trkpt lat="44.453930072486401" lon="20.563868042081594" />
+      <trkpt lat="44.453480886295438" lon="20.563397230580449" />
+      <trkpt lat="44.453139575198293" lon="20.562926419079304" />
+      <trkpt lat="44.452834138646722" lon="20.562331639230251" />
+      <trkpt lat="44.452564576640725" lon="20.561836017295718" />
+      <trkpt lat="44.451953787356615" lon="20.560919120907784" />
+      <trkpt lat="44.451522538438439" lon="20.56052265688777" />
+      <trkpt lat="44.451416507363319" lon="20.560340853407979" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_17-36 4,3 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.451416507363319" lon="20.56034336797893" />
+      <trkpt lat="44.450928932055831" lon="20.561565533280373" />
+      <trkpt lat="44.450551578775048" lon="20.562569098547101" />
+      <trkpt lat="44.45022820495069" lon="20.563163878396153" />
+      <trkpt lat="44.449904831126332" lon="20.563647095113993" />
+      <trkpt lat="44.449635352939367" lon="20.564353354275227" />
+      <trkpt lat="44.449473666027188" lon="20.564873702824116" />
+      <trkpt lat="44.449365790933371" lon="20.565171092748642" />
+      <trkpt lat="44.449365790933371" lon="20.56557996198535" />
+      <trkpt lat="44.44933888502419" lon="20.56613752618432" />
+      <trkpt lat="44.448961615562439" lon="20.566063178703189" />
+      <trkpt lat="44.448746033012867" lon="20.56665787473321" />
+      <trkpt lat="44.448584262281656" lon="20.56721543893218" />
+      <trkpt lat="44.448314784094691" lon="20.567550044506788" />
+      <trkpt lat="44.447991410270333" lon="20.56762439198792" />
+      <trkpt lat="44.447918990626931" lon="20.568070141598582" />
+      <trkpt lat="44.44785101339221" lon="20.568646229803562" />
+      <trkpt lat="44.448013454675674" lon="20.56899257004261" />
+      <trkpt lat="44.447930390015244" lon="20.569484839215875" />
+      <trkpt lat="44.448001133278012" lon="20.569753060117364" />
+      <trkpt lat="44.448062153533101" lon="20.570132257416844" />
+      <trkpt lat="44.447937263175845" lon="20.5704281385988" />
+      <trkpt lat="44.447829723358154" lon="20.570672387257218" />
+      <trkpt lat="44.448045305907726" lon="20.571267083287239" />
+      <trkpt lat="44.447641046717763" lon="20.572159169241786" />
+      <trkpt lat="44.44739855825901" lon="20.572753949090838" />
+      <trkpt lat="44.447344662621617" lon="20.573125602677464" />
+      <trkpt lat="44.447209881618619" lon="20.573683166876435" />
+      <trkpt lat="44.447102090343833" lon="20.574277946725488" />
+      <trkpt lat="44.446913413703442" lon="20.574612468481064" />
+      <trkpt lat="44.44669783115387" lon="20.574463773518801" />
+      <trkpt lat="44.446401363238692" lon="20.574500905349851" />
+      <trkpt lat="44.445970198139548" lon="20.575095685198903" />
+      <trkpt lat="44.445565938949585" lon="20.575578901916742" />
+      <trkpt lat="44.445107784122229" lon="20.575690381228924" />
+      <trkpt lat="44.444865295663476" lon="20.575578901916742" />
+      <trkpt lat="44.444514932110906" lon="20.57598777115345" />
+      <trkpt lat="44.444272359833121" lon="20.576508119702339" />
+      <trkpt lat="44.444892201572657" lon="20.576731162145734" />
+      <trkpt lat="44.445323450490832" lon="20.57702855207026" />
+      <trkpt lat="44.445808511227369" lon="20.577177247032523" />
+      <trkpt lat="44.445970198139548" lon="20.577288726344705" />
+      <trkpt lat="44.445997187867761" lon="20.577288726344705" />
+      <trkpt lat="44.446212770417333" lon="20.577474553138018" />
+      <trkpt lat="44.446380576118827" lon="20.577551247552037" />
+      <trkpt lat="44.446575874462724" lon="20.577571867033839" />
+      <trkpt lat="44.446659861132503" lon="20.577636072412133" />
+      <trkpt lat="44.446708140894771" lon="20.577750485390425" />
+      <trkpt lat="44.446662375703454" lon="20.577967828139663" />
+      <trkpt lat="44.44654293358326" lon="20.578053826466203" />
+      <trkpt lat="44.446077989414334" lon="20.578255159780383" />
+      <trkpt lat="44.445350356400013" lon="20.578664029017091" />
+      <trkpt lat="44.444838305935264" lon="20.578961418941617" />
+      <trkpt lat="44.44440714083612" lon="20.579481851309538" />
+      <trkpt lat="44.444029871374369" lon="20.579779157415032" />
+      <trkpt lat="44.443841194733977" lon="20.580522632226348" />
+      <trkpt lat="44.443652518093586" lon="20.580968633294106" />
+      <trkpt lat="44.443436935544014" lon="20.582158109173179" />
+      <trkpt lat="44.44335613399744" lon="20.583124542608857" />
+      <trkpt lat="44.443248342722654" lon="20.583905149251223" />
+      <trkpt lat="44.443625612184405" lon="20.584016628563404" />
+      <trkpt lat="44.444380151107907" lon="20.58375645428896" />
+      <trkpt lat="44.44494609721005" lon="20.583793586120009" />
+      <trkpt lat="44.445512043312192" lon="20.583793586120009" />
+      <trkpt lat="44.446212770417333" lon="20.583979496732354" />
+      <trkpt lat="44.446859518066049" lon="20.584239671006799" />
+      <trkpt lat="44.447694942355156" lon="20.584462713450193" />
+      <trkpt lat="44.448341773822904" lon="20.584871582686901" />
+      <trkpt lat="44.449150208383799" lon="20.585243236273527" />
+      <trkpt lat="44.449727302417159" lon="20.585671383887529" />
+      <trkpt lat="44.450153522193432" lon="20.585774229839444" />
+      <trkpt lat="44.450593655928969" lon="20.585837429389358" />
+      <trkpt lat="44.451146107167006" lon="20.585911776870489" />
+      <trkpt lat="44.451631167903543" lon="20.585874561220407" />
+      <trkpt lat="44.452102817595005" lon="20.585930300876498" />
+      <trkpt lat="44.452560972422361" lon="20.585930300876498" />
+      <trkpt lat="44.452978642657399" lon="20.585911776870489" />
+      <trkpt lat="44.453436797484756" lon="20.586041864007711" />
+      <trkpt lat="44.453760171309114" lon="20.586283430457115" />
+      <trkpt lat="44.453989248722792" lon="20.586636560037732" />
+      <trkpt lat="44.454299211502075" lon="20.58704542927444" />
+      <trkpt lat="44.454609090462327" lon="20.587175516411662" />
+      <trkpt lat="44.45498644374311" lon="20.587324211373925" />
+      <trkpt lat="44.455377208068967" lon="20.587417166680098" />
+      <trkpt lat="44.455707622691989" lon="20.587425716221333" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_17-lupoglav 0,19 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.451416507363319" lon="20.560340853407979" />
+      <trkpt lat="44.451501835137606" lon="20.560085540637374" />
+      <trkpt lat="44.451363533735275" lon="20.559747330844402" />
+      <trkpt lat="44.451174857094884" lon="20.559478439390659" />
+      <trkpt lat="44.450910743325949" lon="20.559140229597688" />
+      <trkpt lat="44.450671775266528" lon="20.558628514409065" />
+      <trkpt lat="44.450514614582062" lon="20.558559112250805" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_18-19 0,35 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.472890524193645" lon="20.577782336622477" />
+      <trkpt lat="44.473212389275432" lon="20.57822716422379" />
+      <trkpt lat="44.473577085882425" lon="20.578470071777701" />
+      <trkpt lat="44.473853772506118" lon="20.578704262152314" />
+      <trkpt lat="44.474017303436995" lon="20.578869050368667" />
+      <trkpt lat="44.474287703633308" lon="20.579085806384683" />
+      <trkpt lat="44.474526671692729" lon="20.579198626801372" />
+      <trkpt lat="44.474885081872344" lon="20.579224610701203" />
+      <trkpt lat="44.475180627778172" lon="20.579250594601035" />
+      <trkpt lat="44.475438455119729" lon="20.579120507463813" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_20-21 0,43 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.477431001141667" lon="20.582541497424245" />
+      <trkpt lat="44.47756159119308" lon="20.583155136555433" />
+      <trkpt lat="44.477709867060184" lon="20.583824263885617" />
+      <trkpt lat="44.478033240884542" lon="20.5850322637707" />
+      <trkpt lat="44.478302719071507" lon="20.585515480488539" />
+      <trkpt lat="44.478653082624078" lon="20.586203131824732" />
+      <trkpt lat="44.478882160037756" lon="20.586444782093167" />
+      <trkpt lat="44.479138143360615" lon="20.586742172017694" />
+      <trkpt lat="44.479407705366611" lon="20.58713243342936" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_21-22 0,6 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.47512480430305" lon="20.588086964562535" />
+      <trkpt lat="44.475443735718727" lon="20.588230043649673" />
+      <trkpt lat="44.475659318268299" lon="20.588440680876374" />
+      <trkpt lat="44.475892838090658" lon="20.588737986981869" />
+      <trkpt lat="44.476144379004836" lon="20.589010650292039" />
+      <trkpt lat="44.476413857191801" lon="20.589146940037608" />
+      <trkpt lat="44.476773189380765" lon="20.589184071868658" />
+      <trkpt lat="44.477168479934335" lon="20.589171666651964" />
+      <trkpt lat="44.477536780759692" lon="20.589022971689701" />
+      <trkpt lat="44.477914050221443" lon="20.588787607848644" />
+      <trkpt lat="44.478336330503225" lon="20.588539754971862" />
+      <trkpt lat="44.478659704327583" lon="20.588155696168542" />
+      <trkpt lat="44.478929182514548" lon="20.58773442171514" />
+      <trkpt lat="44.479216681793332" lon="20.587337957695127" />
+      <trkpt lat="44.479414243251085" lon="20.58707769960165" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_22-23 0,15 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.474082347005606" lon="20.589028168469667" />
+      <trkpt lat="44.474347801879048" lon="20.589022217318416" />
+      <trkpt lat="44.474613759666681" lon="20.588846700266004" />
+      <trkpt lat="44.474879633635283" lon="20.588626088574529" />
+      <trkpt lat="44.475004440173507" lon="20.588400363922119" />
+      <trkpt lat="44.475036794319749" lon="20.588232390582561" />
+      <trkpt lat="44.475042158737779" lon="20.588069446384907" />
+      <trkpt lat="44.475117931142449" lon="20.588081264868379" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_22-34 0,77 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.47252188809216" lon="20.579600958153605" />
+      <trkpt lat="44.472580477595329" lon="20.579839507117867" />
+      <trkpt lat="44.472840987145901" lon="20.580620029941201" />
+      <trkpt lat="44.472876945510507" lon="20.581152867525816" />
+      <trkpt lat="44.473047601059079" lon="20.581536926329136" />
+      <trkpt lat="44.473047601059079" lon="20.581871448084712" />
+      <trkpt lat="44.473218256607652" lon="20.582106895744801" />
+      <trkpt lat="44.473218256607652" lon="20.582466227933764" />
+      <trkpt lat="44.473388995975256" lon="20.582775939255953" />
+      <trkpt lat="44.473388995975256" lon="20.58328396640718" />
+      <trkpt lat="44.473613547161222" lon="20.583531735464931" />
+      <trkpt lat="44.473604578524828" lon="20.584002546966076" />
+      <trkpt lat="44.473766265437007" lon="20.584337152540684" />
+      <trkpt lat="44.473802223801613" lon="20.584758426994085" />
+      <trkpt lat="44.473999785259366" lon="20.585167296230793" />
+      <trkpt lat="44.474080670624971" lon="20.585625702515244" />
+      <trkpt lat="44.47428728453815" lon="20.585848744958639" />
+      <trkpt lat="44.474404044449329" lon="20.586505383253098" />
+      <trkpt lat="44.474610658362508" lon="20.58679036796093" />
+      <trkpt lat="44.474691543728113" lon="20.587248858064413" />
+      <trkpt lat="44.474871167913079" lon="20.587719669565558" />
+      <trkpt lat="44.475122708827257" lon="20.588079001754522" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_23-35 1,1 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.474078742787242" lon="20.589030599221587" />
+      <trkpt lat="44.473966844379902" lon="20.588926998898387" />
+      <trkpt lat="44.47384555824101" lon="20.58853673748672" />
+      <trkpt lat="44.473562585189939" lon="20.588016305118799" />
+      <trkpt lat="44.473360497504473" lon="20.587737523019314" />
+      <trkpt lat="44.473185315728188" lon="20.587421609088778" />
+      <trkpt lat="44.472983228042722" lon="20.587272914126515" />
+      <trkpt lat="44.47279455140233" lon="20.587124219164252" />
+      <trkpt lat="44.472578968852758" lon="20.587105611339211" />
+      <trkpt lat="44.472309490665793" lon="20.586956916376948" />
+      <trkpt lat="44.471986033022404" lon="20.586659610271454" />
+      <trkpt lat="44.47164916433394" lon="20.586213525384665" />
+      <trkpt lat="44.471339285373688" lon="20.585971958935261" />
+      <trkpt lat="44.471083302050829" lon="20.585674569010735" />
+      <trkpt lat="44.470854224637151" lon="20.58548865839839" />
+      <trkpt lat="44.470732938498259" lon="20.585693176835775" />
+      <trkpt lat="44.470705948770046" lon="20.585934743285179" />
+      <trkpt lat="44.470638642087579" lon="20.586176393553615" />
+      <trkpt lat="44.470476871356368" lon="20.58649230748415" />
+      <trkpt lat="44.470207393169403" lon="20.586585262790322" />
+      <trkpt lat="44.469937914982438" lon="20.586715349927545" />
+      <trkpt lat="44.469762733206153" lon="20.586715349927545" />
+      <trkpt lat="44.469533655792475" lon="20.586473699659109" />
+      <trkpt lat="44.469345062971115" lon="20.586213525384665" />
+      <trkpt lat="44.468994699418545" lon="20.586064830422401" />
+      <trkpt lat="44.468644335865974" lon="20.585879003629088" />
+      <trkpt lat="44.468428753316402" lon="20.585748916491866" />
+      <trkpt lat="44.46821317076683" lon="20.585618829354644" />
+      <trkpt lat="44.468017537146807" lon="20.585600221529603" />
+      <trkpt lat="44.467788459733129" lon="20.585767440497875" />
+      <trkpt lat="44.467640267685056" lon="20.586046222597361" />
+      <trkpt lat="44.467343799769878" lon="20.586287872865796" />
+      <trkpt lat="44.467101227492094" lon="20.5865294393152" />
+      <trkpt lat="44.46673066355288" lon="20.586715349927545" />
+      <trkpt lat="44.466488091275096" lon="20.586845437064767" />
+      <trkpt lat="44.466353394091129" lon="20.586956916376948" />
+      <trkpt lat="44.466089531779289" lon="20.586981642991304" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_23-40 0,3km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.471527375280857" lon="20.589160602539778" />
+      <trkpt lat="44.471967341378331" lon="20.589153980836272" />
+      <trkpt lat="44.472410408779979" lon="20.58909622952342" />
+      <trkpt lat="44.472728418186307" lon="20.588983409106731" />
+      <trkpt lat="44.473409112542868" lon="20.589079633355141" />
+      <trkpt lat="44.473692085593939" lon="20.589116849005222" />
+      <trkpt lat="44.4738753978163" lon="20.589100001379848" />
+      <trkpt lat="44.474011939018965" lon="20.589104946702719" />
+      <trkpt lat="44.474076563492417" lon="20.589030012488365" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_24-38 0,5 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.46176765486598" lon="20.554636884480715">
+        <ele>448.08999999999997</ele>
+        <time>2023-03-07T07:43:56Z</time>
+      </trkpt>
+      <trkpt lat="44.461837979033589" lon="20.554509982466698">
+        <ele>451.11000000000001</ele>
+        <time>2023-03-07T07:44:05Z</time>
+      </trkpt>
+      <trkpt lat="44.461930012330413" lon="20.554475029930472">
+        <ele>450.75999999999999</ele>
+        <time>2023-03-07T07:44:14Z</time>
+      </trkpt>
+      <trkpt lat="44.46203202009201" lon="20.554377967491746">
+        <ele>451.74000000000001</ele>
+        <time>2023-03-07T07:44:23Z</time>
+      </trkpt>
+      <trkpt lat="44.462145008146763" lon="20.554291969165206">
+        <ele>445.35000000000002</ele>
+        <time>2023-03-07T07:44:33Z</time>
+      </trkpt>
+      <trkpt lat="44.462222037836909" lon="20.554249975830317">
+        <ele>442.51999999999998</ele>
+        <time>2023-03-07T07:44:42Z</time>
+      </trkpt>
+      <trkpt lat="44.462320022284985" lon="20.554217034950852">
+        <ele>440.76999999999998</ele>
+        <time>2023-03-07T07:44:51Z</time>
+      </trkpt>
+      <trkpt lat="44.462415995076299" lon="20.554205970838666">
+        <ele>442.41000000000003</ele>
+        <time>2023-03-07T07:45:00Z</time>
+      </trkpt>
+      <trkpt lat="44.462559996172786" lon="20.554190967231989">
+        <ele>442.01999999999998</ele>
+        <time>2023-03-07T07:45:10Z</time>
+      </trkpt>
+      <trkpt lat="44.462673990055919" lon="20.554190967231989">
+        <ele>442.95999999999998</ele>
+        <time>2023-03-07T07:45:19Z</time>
+      </trkpt>
+      <trkpt lat="44.462799970060587" lon="20.554145034402609">
+        <ele>443.32999999999998</ele>
+        <time>2023-03-07T07:45:28Z</time>
+      </trkpt>
+      <trkpt lat="44.462859062477946" lon="20.554110333323479">
+        <ele>443.56</ele>
+        <time>2023-03-07T07:45:38Z</time>
+      </trkpt>
+      <trkpt lat="44.46291103027761" lon="20.554060041904449">
+        <ele>439.70999999999998</ele>
+        <time>2023-03-07T07:45:47Z</time>
+      </trkpt>
+      <trkpt lat="44.463110016658902" lon="20.553881004452705">
+        <ele>427.38999999999999</ele>
+        <time>2023-03-07T07:48:07Z</time>
+      </trkpt>
+      <trkpt lat="44.463227028027177" lon="20.55369601584971">
+        <ele>433.45999999999998</ele>
+        <time>2023-03-07T07:49:04Z</time>
+      </trkpt>
+      <trkpt lat="44.463268015533686" lon="20.55365301668644">
+        <ele>433.94999999999999</ele>
+        <time>2023-03-07T07:49:13Z</time>
+      </trkpt>
+      <trkpt lat="44.463405981659889" lon="20.553636001423001">
+        <ele>432.62</ele>
+        <time>2023-03-07T07:49:22Z</time>
+      </trkpt>
+      <trkpt lat="44.463574960827827" lon="20.553644970059395">
+        <ele>431.27999999999997</ele>
+        <time>2023-03-07T07:49:32Z</time>
+      </trkpt>
+      <trkpt lat="44.463730026036501" lon="20.553698027506471">
+        <ele>426.30000000000001</ele>
+        <time>2023-03-07T07:49:42Z</time>
+      </trkpt>
+      <trkpt lat="44.463845025748014" lon="20.553681012243032">
+        <ele>426.13</ele>
+        <time>2023-03-07T07:49:51Z</time>
+      </trkpt>
+      <trkpt lat="44.463957007974386" lon="20.553615968674421">
+        <ele>429.63999999999999</ele>
+        <time>2023-03-07T07:50:00Z</time>
+      </trkpt>
+      <trkpt lat="44.464093968272209" lon="20.553597025573254">
+        <ele>429.26999999999998</ele>
+        <time>2023-03-07T07:50:09Z</time>
+      </trkpt>
+      <trkpt lat="44.464209973812103" lon="20.553532987833023">
+        <ele>427.82999999999998</ele>
+        <time>2023-03-07T07:50:19Z</time>
+      </trkpt>
+      <trkpt lat="44.464290020987391" lon="20.553493006154895">
+        <ele>420.75999999999999</ele>
+        <time>2023-03-07T07:50:28Z</time>
+      </trkpt>
+      <trkpt lat="44.464399991557002" lon="20.553472973406315">
+        <ele>420.06999999999999</ele>
+        <time>2023-03-07T07:50:37Z</time>
+      </trkpt>
+      <trkpt lat="44.464454976841807" lon="20.553433997556567">
+        <ele>419.04000000000002</ele>
+        <time>2023-03-07T07:50:47Z</time>
+      </trkpt>
+      <trkpt lat="44.464590009301901" lon="20.553413964807987">
+        <ele>418.07999999999998</ele>
+        <time>2023-03-07T07:50:56Z</time>
+      </trkpt>
+      <trkpt lat="44.464664021506906" lon="20.55331002920866">
+        <ele>407.48000000000002</ele>
+        <time>2023-03-07T07:51:05Z</time>
+      </trkpt>
+      <trkpt lat="44.464807016775012" lon="20.553326038643718">
+        <ele>406</ele>
+        <time>2023-03-07T07:51:14Z</time>
+      </trkpt>
+      <trkpt lat="44.46497499011457" lon="20.553379012271762">
+        <ele>404.43000000000001</ele>
+        <time>2023-03-07T07:51:24Z</time>
+      </trkpt>
+      <trkpt lat="44.465070040896535" lon="20.553413964807987">
+        <ele>408.87</ele>
+        <time>2023-03-07T07:51:33Z</time>
+      </trkpt>
+      <trkpt lat="44.465164002031088" lon="20.553380018100142">
+        <ele>408.26999999999998</ele>
+        <time>2023-03-07T07:51:42Z</time>
+      </trkpt>
+      <trkpt lat="44.465245977044106" lon="20.553303994238377">
+        <ele>413.11000000000001</ele>
+        <time>2023-03-07T07:51:51Z</time>
+      </trkpt>
+      <trkpt lat="44.46531898342073" lon="20.553256971761584">
+        <ele>406.85000000000002</ele>
+        <time>2023-03-07T07:52:00Z</time>
+      </trkpt>
+      <trkpt lat="44.465412022545934" lon="20.553213972598314">
+        <ele>407.94999999999999</ele>
+        <time>2023-03-07T07:52:09Z</time>
+      </trkpt>
+      <trkpt lat="44.465500032529235" lon="20.553222019225359">
+        <ele>405.37</ele>
+        <time>2023-03-07T07:52:18Z</time>
+      </trkpt>
+      <trkpt lat="44.46557697840035" lon="20.55322403088212">
+        <ele>404.00999999999999</ele>
+        <time>2023-03-07T07:52:27Z</time>
+      </trkpt>
+      <trkpt lat="44.465667000040412" lon="20.553227970376611">
+        <ele>402.50999999999999</ele>
+        <time>2023-03-07T07:52:37Z</time>
+      </trkpt>
+      <trkpt lat="44.465756015852094" lon="20.553150773048401">
+        <ele>399.06999999999999</ele>
+        <time>2023-03-07T07:52:46Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_25-30 0,86 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.470926225185394" lon="20.598820159211755" />
+      <trkpt lat="44.470827402547002" lon="20.598976314067841" />
+      <trkpt lat="44.470621710643172" lon="20.599293569102883" />
+      <trkpt lat="44.470412498340011" lon="20.599594982340932" />
+      <trkpt lat="44.470186103135347" lon="20.599993960931897" />
+      <trkpt lat="44.469984853640199" lon="20.600254135206342" />
+      <trkpt lat="44.469720739871264" lon="20.600609695538878" />
+      <trkpt lat="44.469619235023856" lon="20.600846484303474" />
+      <trkpt lat="44.469497110694647" lon="20.601012529805303" />
+      <trkpt lat="44.469326790422201" lon="20.601226016879082" />
+      <trkpt lat="44.469129228964448" lon="20.601448975503445" />
+      <trkpt lat="44.468841729685664" lon="20.601721554994583" />
+      <trkpt lat="44.468446522951126" lon="20.602068481966853" />
+      <trkpt lat="44.467979399487376" lon="20.602316334843636" />
+      <trkpt lat="44.467700868844986" lon="20.602266797795892" />
+      <trkpt lat="44.467503223568201" lon="20.602328740060329" />
+      <trkpt lat="44.467233745381236" lon="20.602551698684692" />
+      <trkpt lat="44.467036100104451" lon="20.602811956778169" />
+      <trkpt lat="44.466748684644699" lon="20.603034915402532" />
+      <trkpt lat="44.466501083225012" lon="20.603134073317051" />
+      <trkpt lat="44.466339396312833" lon="20.603220826014876" />
+      <trkpt lat="44.466177709400654" lon="20.603245552629232" />
+      <trkpt lat="44.465926168486476" lon="20.603295173496008" />
+      <trkpt lat="44.465665658935905" lon="20.603344710543752" />
+      <trkpt lat="44.465521909296513" lon="20.603282768279314" />
+      <trkpt lat="44.46539618074894" lon="20.60327036306262" />
+      <trkpt lat="44.465252431109548" lon="20.60323323123157" />
+      <trkpt lat="44.465090744197369" lon="20.603196015581489" />
+      <trkpt lat="44.464938025921583" lon="20.603158883750439" />
+      <trkpt lat="44.46481229737401" lon="20.603183610364795" />
+      <trkpt lat="44.464686485007405" lon="20.603282768279314" />
+      <trkpt lat="44.464496718719602" lon="20.603573452681303" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_25-46 0,1 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.470925386995077" lon="20.598830636590719" />
+      <trkpt lat="44.471241636201739" lon="20.599600346758962" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_25-48 1 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.464143170043826" lon="20.593326408416033" />
+      <trkpt lat="44.464586991816759" lon="20.593383237719536" />
+      <trkpt lat="44.464784637093544" lon="20.593383237719536" />
+      <trkpt lat="44.465054115280509" lon="20.593358427286148" />
+      <trkpt lat="44.465278666466475" lon="20.593358427286148" />
+      <trkpt lat="44.465539176017046" lon="20.59329648502171" />
+      <trkpt lat="44.465763811022043" lon="20.593246947973967" />
+      <trkpt lat="44.466060195118189" lon="20.593222137540579" />
+      <trkpt lat="44.466383568942547" lon="20.593209732323885" />
+      <trkpt lat="44.466653130948544" lon="20.593358427286148" />
+      <trkpt lat="44.466859744861722" lon="20.593370832502842" />
+      <trkpt lat="44.467084296047688" lon="20.593370832502842" />
+      <trkpt lat="44.467380763962865" lon="20.593370832502842" />
+      <trkpt lat="44.467623252421618" lon="20.593383237719536" />
+      <trkpt lat="44.467829866334796" lon="20.593383237719536" />
+      <trkpt lat="44.467883761972189" lon="20.593420369550586" />
+      <trkpt lat="44.468090375885367" lon="20.593556659296155" />
+      <trkpt lat="44.468270083889365" lon="20.593655817210674" />
+      <trkpt lat="44.46847653016448" lon="20.593953207135201" />
+      <trkpt lat="44.468629248440266" lon="20.594300134107471" />
+      <trkpt lat="44.468826893717051" lon="20.594671787694097" />
+      <trkpt lat="44.468970643356442" lon="20.595080656930804" />
+      <trkpt lat="44.469168204814196" lon="20.595452394336462" />
+      <trkpt lat="44.469401808455586" lon="20.595811726525426" />
+      <trkpt lat="44.469734150916338" lon="20.596220595762134" />
+      <trkpt lat="44.469994660466909" lon="20.596604654565454" />
+      <trkpt lat="44.470183253288269" lon="20.596840102225542" />
+      <trkpt lat="44.47037192992866" lon="20.597137492150068" />
+      <trkpt lat="44.470524648204446" lon="20.597472013905644" />
+      <trkpt lat="44.470717683434486" lon="20.598103925585747" />
+      <trkpt lat="44.470798568800092" lon="20.598364099860191" />
+      <trkpt lat="44.470920860767365" lon="20.598810268566012" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_26-38 2 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.465759117156267" lon="20.553155047819018" />
+      <trkpt lat="44.465445633977652" lon="20.552858160808682" />
+      <trkpt lat="44.464924614876509" lon="20.552585581317544" />
+      <trkpt lat="44.464439554139972" lon="20.552387349307537" />
+      <trkpt lat="44.463729523122311" lon="20.552040422335267" />
+      <trkpt lat="44.463289808481932" lon="20.551934223622084" />
+      <trkpt lat="44.462804747745395" lon="20.55179625749588" />
+      <trkpt lat="44.462355561554432" lon="20.551771195605397" />
+      <trkpt lat="44.4619513861835" lon="20.551721071824431" />
+      <trkpt lat="44.461523490026593" lon="20.551761640235782" />
+      <trkpt lat="44.460903648287058" lon="20.551848392933607" />
+      <trkpt lat="44.460337786003947" lon="20.551984682679176" />
+      <trkpt lat="44.459619121626019" lon="20.551910335198045" />
+      <trkpt lat="44.459112184122205" lon="20.551867000758648" />
+      <trkpt lat="44.458734914660454" lon="20.552139580249786" />
+      <trkpt lat="44.458501311019063" lon="20.552461696788669" />
+      <trkpt lat="44.458267791196704" lon="20.553155550733209" />
+      <trkpt lat="44.458070145919919" lon="20.553824594244361" />
+      <trkpt lat="44.457872500643134" lon="20.554543258622289" />
+      <trkpt lat="44.457782646641135" lon="20.555088417604566" />
+      <trkpt lat="44.457714920863509" lon="20.556071363389492" />
+      <trkpt lat="44.457688014954329" lon="20.556497666984797" />
+      <trkpt lat="44.457661025226116" lon="20.556911397725344" />
+      <trkpt lat="44.45759816095233" lon="20.557538196444511" />
+      <trkpt lat="44.457705952227116" lon="20.558114955201745" />
+      <trkpt lat="44.457750879228115" lon="20.558616360649467" />
+      <trkpt lat="44.457638561725616" lon="20.559016177430749" />
+      <trkpt lat="44.457566728815436" lon="20.559685220941901" />
+      <trkpt lat="44.457279313355684" lon="20.559536525979638" />
+      <trkpt lat="44.4569918140769" lon="20.559536525979638" />
+      <trkpt lat="44.456901960074902" lon="20.559710031375289" />
+      <trkpt lat="44.456749241799116" lon="20.560118900611997" />
+      <trkpt lat="44.456803137436509" lon="20.560676464810967" />
+      <trkpt lat="44.457000698894262" lon="20.561308292672038" />
+      <trkpt lat="44.457108490169048" lon="20.561618087813258" />
+      <trkpt lat="44.457018719986081" lon="20.562002146616578" />
+      <trkpt lat="44.456928865984082" lon="20.562671273946762" />
+      <trkpt lat="44.456650419160724" lon="20.563402259722352" />
+      <trkpt lat="44.456380940973759" lon="20.563873155042529" />
+      <trkpt lat="44.45621925406158" lon="20.564145734533668" />
+      <trkpt lat="44.455968383699656" lon="20.564842186868191" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_27-46 2,2km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.471246162429452" lon="20.599594144150615" />
+      <trkpt lat="44.471558136865497" lon="20.600265199318528" />
+      <trkpt lat="44.471921911463141" lon="20.600636852905154" />
+      <trkpt lat="44.472326170653105" lon="20.600989982485771" />
+      <trkpt lat="44.472649544477463" lon="20.601250240579247" />
+      <trkpt lat="44.473026897758245" lon="20.601677633821964" />
+      <trkpt lat="44.473511958494782" lon="20.602142326533794" />
+      <trkpt lat="44.473943123593926" lon="20.602644151076674" />
+      <trkpt lat="44.474414773285389" lon="20.603015804663301" />
+      <trkpt lat="44.474778547883034" lon="20.603201715275645" />
+      <trkpt lat="44.475344493985176" lon="20.603591976687312" />
+      <trkpt lat="44.475896945223212" lon="20.603852150961757" />
+      <trkpt lat="44.476179918274283" lon="20.604056585580111" />
+      <trkpt lat="44.47654377669096" lon="20.604093801230192" />
+      <trkpt lat="44.476561462506652" lon="20.604098243638873" />
+      <trkpt lat="44.476830940693617" lon="20.604445170611143" />
+      <trkpt lat="44.477082481607795" lon="20.604742476716638" />
+      <trkpt lat="44.47735195979476" lon="20.604915982112288" />
+      <trkpt lat="44.477441813796759" lon="20.604965519160032" />
+      <trkpt lat="44.477334022521973" lon="20.605461141094565" />
+      <trkpt lat="44.477316085249186" lon="20.605981489643455" />
+      <trkpt lat="44.47728012688458" lon="20.606700154021382" />
+      <trkpt lat="44.477334022521973" lon="20.607245313003659" />
+      <trkpt lat="44.477423876523972" lon="20.607914440333843" />
+      <trkpt lat="44.477585563436151" lon="20.608187019824982" />
+      <trkpt lat="44.477621521800756" lon="20.608533946797252" />
+      <trkpt lat="44.477441813796759" lon="20.608880873769522" />
+      <trkpt lat="44.477136377245188" lon="20.609277337789536" />
+      <trkpt lat="44.477154398337007" lon="20.609772959724069" />
+      <trkpt lat="44.47728012688458" lon="20.61019423417747" />
+      <trkpt lat="44.477369980886579" lon="20.61088808812201" />
+      <trkpt lat="44.477495709434152" lon="20.611458057537675" />
+      <trkpt lat="44.477657396346331" lon="20.611879248172045" />
+      <trkpt lat="44.477890999987721" lon="20.612523565068841" />
+      <trkpt lat="44.478088645264506" lon="20.612895302474499" />
+      <trkpt lat="44.478358123451471" lon="20.6133165769279" />
+      <trkpt lat="44.478555768728256" lon="20.613613883033395" />
+      <trkpt lat="44.478771351277828" lon="20.613787388429046" />
+      <trkpt lat="44.478933038190007" lon="20.613688230514526" />
+      <trkpt lat="44.479148620739579" lon="20.613514808937907" />
+      <trkpt lat="44.47945405729115" lon="20.614159125834703" />
+      <trkpt lat="44.479813389480114" lon="20.614852979779243" />
+      <trkpt lat="44.480064930394292" lon="20.615794602781534" />
+      <trkpt lat="44.480280512943864" lon="20.6167858466506" />
+      <trkpt lat="44.480280512943864" lon="20.617677932605147" />
+      <trkpt lat="44.480262491852045" lon="20.618148744106293" />
+      <trkpt lat="44.48031647130847" lon="20.618594828993082" />
+      <trkpt lat="44.480442199856043" lon="20.618991293013096" />
+      <trkpt lat="44.480532053858042" lon="20.619412567466497" />
+      <trkpt lat="44.480654178187251" lon="20.619955295696855" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_28-31 0,76 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.459324078634381" lon="20.59968282468617" />
+      <trkpt lat="44.459760608151555" lon="20.599485766142607" />
+      <trkpt lat="44.46049720980227" lon="20.599386692047119" />
+      <trkpt lat="44.461179999634624" lon="20.599188376218081" />
+      <trkpt lat="44.461485436186194" lon="20.599039765074849" />
+      <trkpt lat="44.461790788918734" lon="20.598643217235804" />
+      <trkpt lat="44.461916601285338" lon="20.597652057185769" />
+      <trkpt lat="44.462114246562123" lon="20.596834234893322" />
+      <trkpt lat="44.462437620386481" lon="20.595966959372163" />
+      <trkpt lat="44.46267114020884" lon="20.595446527004242" />
+      <trkpt lat="44.462922681123018" lon="20.594851830974221" />
+      <trkpt lat="44.463210180401802" lon="20.594405746087432" />
+      <trkpt lat="44.463389804586768" lon="20.593910207971931" />
+      <trkpt lat="44.463479658588767" lon="20.59363754466176" />
+      <trkpt lat="44.463711669668555" lon="20.593432271853089" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_28-39 0,1 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.46336206048727" lon="20.592637415975332" />
+      <trkpt lat="44.463426768779755" lon="20.592744033783674" />
+      <trkpt lat="44.463478904217482" lon="20.592838162556291" />
+      <trkpt lat="44.463527351617813" lon="20.5929050501436" />
+      <trkpt lat="44.46357412263751" lon="20.592989288270473" />
+      <trkpt lat="44.46361904963851" lon="20.593036394566298" />
+      <trkpt lat="44.463644195348024" lon="20.593142928555608" />
+      <trkpt lat="44.463665736839175" lon="20.593259437009692" />
+      <trkpt lat="44.46369088254869" lon="20.593343675136566" />
+      <trkpt lat="44.463710663840175" lon="20.593432858586311" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_28-48 0,1 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.463712424039841" lon="20.593434199690819" />
+      <trkpt lat="44.463778892531991" lon="20.59336974285543" />
+      <trkpt lat="44.463851228356361" lon="20.593345016241074" />
+      <trkpt lat="44.463994977995753" lon="20.593363624066114" />
+      <trkpt lat="44.464138727635145" lon="20.59333261102438" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_29-39 0,4 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.460807759314775" lon="20.590750314295292" />
+      <trkpt lat="44.461435899138451" lon="20.590745201334357" />
+      <trkpt lat="44.461974855512381" lon="20.59085676446557" />
+      <trkpt lat="44.46258120238781" lon="20.591079806908965" />
+      <trkpt lat="44.462850680574775" lon="20.591581547632813" />
+      <trkpt lat="44.463147148489952" lon="20.592083372175694" />
+      <trkpt lat="44.463361725211143" lon="20.592639846727252" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanjA_29-45 0,6 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.460811363533139" lon="20.590750314295292" />
+      <trkpt lat="44.46068680845201" lon="20.59061829932034" />
+      <trkpt lat="44.460538532584906" lon="20.590555099770427" />
+      <trkpt lat="44.460374163463712" lon="20.590484524145722" />
+      <trkpt lat="44.460182804614305" lon="20.590387880802155" />
+      <trkpt lat="44.459916008636355" lon="20.590235497802496" />
+      <trkpt lat="44.459456345066428" lon="20.590008767321706" />
+      <trkpt lat="44.459216454997659" lon="20.589863760396838" />
+      <trkpt lat="44.459011685103178" lon="20.589737361297011" />
+      <trkpt lat="44.458710607141256" lon="20.589485904201865" />
+      <trkpt lat="44.458468034863472" lon="20.589303765445948" />
+      <trkpt lat="44.458236275240779" lon="20.589039819315076" />
+      <trkpt lat="44.458066876977682" lon="20.588885005563498" />
+      <trkpt lat="44.458004012703896" lon="20.588798252865672" />
+      <trkpt lat="44.457905190065503" lon="20.588711500167847" />
+      <trkpt lat="44.457824388518929" lon="20.588686773553491" />
+      <trkpt lat="44.457438066601753" lon="20.588785847648978" />
+      <trkpt lat="44.457096755504608" lon="20.588785847648978" />
+      <trkpt lat="44.456629632040858" lon="20.588661963120103" />
+      <trkpt lat="44.45637809112668" lon="20.588562805205584" />
+      <trkpt lat="44.456180445849895" lon="20.588389383628964" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_29-47 0,3 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.458337612450123" lon="20.590612348169088" />
+      <trkpt lat="44.458713959902525" lon="20.590912504121661" />
+      <trkpt lat="44.459253000095487" lon="20.591042591258883" />
+      <trkpt lat="44.45978282019496" lon="20.591056169942021" />
+      <trkpt lat="44.460443062707782" lon="20.590878138318658" />
+      <trkpt lat="44.460809519514441" lon="20.590750314295292" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_30-31 0,67km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.464496718719602" lon="20.603573452681303" />
+      <trkpt lat="44.464116347953677" lon="20.603369520977139" />
+      <trkpt lat="44.463550401851535" lon="20.603165086358786" />
+      <trkpt lat="44.463105741888285" lon="20.602904828265309" />
+      <trkpt lat="44.462593691423535" lon="20.602570306509733" />
+      <trkpt lat="44.462041240185499" lon="20.602235784754157" />
+      <trkpt lat="44.461583085358143" lon="20.60188265517354" />
+      <trkpt lat="44.46111143566668" lon="20.601678220555186" />
+      <trkpt lat="44.460653280839324" lon="20.601455178111792" />
+      <trkpt lat="44.46031641215086" lon="20.601046308875084" />
+      <trkpt lat="44.459979543462396" lon="20.600618831813335" />
+      <trkpt lat="44.459750549867749" lon="20.600228570401669" />
+      <trkpt lat="44.459534883499146" lon="20.599931180477142" />
+      <trkpt lat="44.459332628175616" lon="20.599686009809375" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_30-Vrh Košutica 463 0,5 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.465774623677135" lon="20.597319379448891" />
+      <trkpt lat="44.465608410537243" lon="20.597598245367408" />
+      <trkpt lat="44.465594915673137" lon="20.597857665270567" />
+      <trkpt lat="44.465154781937599" lon="20.598648833110929" />
+      <trkpt lat="44.465262573212385" lon="20.599070359021425" />
+      <trkpt lat="44.465217646211386" lon="20.599301196634769" />
+      <trkpt lat="44.465361395850778" lon="20.599657846614718" />
+      <trkpt lat="44.465491650626063" lon="20.599943250417709" />
+      <trkpt lat="44.465370364487171" lon="20.600364776328206" />
+      <trkpt lat="44.465168192982674" lon="20.600449098274112" />
+      <trkpt lat="44.465033495798707" lon="20.600734418258071" />
+      <trkpt lat="44.465008266270161" lon="20.601153932511806" />
+      <trkpt lat="44.464943641796708" lon="20.601395918056369" />
+      <trkpt lat="44.464826881885529" lon="20.601512677967548" />
+      <trkpt lat="44.46473702788353" lon="20.601940657943487" />
+      <trkpt lat="44.464678606018424" lon="20.602206531912088" />
+      <trkpt lat="44.464629236608744" lon="20.602517835795879" />
+      <trkpt lat="44.464656142517924" lon="20.602777255699039" />
+      <trkpt lat="44.464671397581697" lon="20.603105323389173" />
+      <trkpt lat="44.464657986536622" lon="20.603123931214213" />
+      <trkpt lat="44.464617501944304" lon="20.603179670870304" />
+      <trkpt lat="44.464498562738299" lon="20.603573452681303" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_31-32 1,2 km</name>
+    <desc>PODLOGA Asfalt 100%</desc>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.459331287071109" lon="20.59968282468617" />
+      <trkpt lat="44.459237158298492" lon="20.599652230739594" />
+      <trkpt lat="44.458967680111527" lon="20.599592803046107" />
+      <trkpt lat="44.458698201924562" lon="20.599493645131588" />
+      <trkpt lat="44.458311880007386" lon="20.599543182179332" />
+      <trkpt lat="44.458024464547634" lon="20.599654745310545" />
+      <trkpt lat="44.457548372447491" lon="20.599964456632733" />
+      <trkpt lat="44.457063227891922" lon="20.600150367245078" />
+      <trkpt lat="44.45635998621583" lon="20.600354801863432" />
+      <trkpt lat="44.455605363473296" lon="20.600559236481786" />
+      <trkpt lat="44.455025922507048" lon="20.600633583962917" />
+      <trkpt lat="44.454419575631618" lon="20.60080080293119" />
+      <trkpt lat="44.453921020030975" lon="20.600930890068412" />
+      <trkpt lat="44.453503265976906" lon="20.601116800680757" />
+      <trkpt lat="44.45320688188076" lon="20.601246887817979" />
+      <trkpt lat="44.453139491379261" lon="20.600930890068412" />
+      <trkpt lat="44.453085595741868" lon="20.600447673350573" />
+      <trkpt lat="44.453031700104475" lon="20.599852977320552" />
+      <trkpt lat="44.453152986243367" lon="20.599444108083844" />
+      <trkpt lat="44.453408969566226" lon="20.599016631022096" />
+      <trkpt lat="44.453732343390584" lon="20.598552022129297" />
+      <trkpt lat="44.454203993082047" lon="20.598124545067549" />
+      <trkpt lat="44.454662147909403" lon="20.597864370793104" />
+      <trkpt lat="44.454972026869655" lon="20.597678460180759" />
+      <trkpt lat="44.455234799534082" lon="20.597705030813813" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_32-33 2,5 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.436395382508636" lon="20.60428180731833" />
+      <trkpt lat="44.436718756332994" lon="20.603389637544751" />
+      <trkpt lat="44.437275733798742" lon="20.603463985025883" />
+      <trkpt lat="44.437976377084851" lon="20.603513605892658" />
+      <trkpt lat="44.438263876363635" lon="20.603513605892658" />
+      <trkpt lat="44.438569312915206" lon="20.60324102640152" />
+      <trkpt lat="44.439108269289136" lon="20.603761374950409" />
+      <trkpt lat="44.439737079665065" lon="20.603463985025883" />
+      <trkpt lat="44.440168244764209" lon="20.603290563449264" />
+      <trkpt lat="44.440653389319777" lon="20.602869288995862" />
+      <trkpt lat="44.440868971869349" lon="20.602720594033599" />
+      <trkpt lat="44.441156387329102" lon="20.60289409942925" />
+      <trkpt lat="44.441300136968493" lon="20.60348879545927" />
+      <trkpt lat="44.442072696983814" lon="20.603092331439257" />
+      <trkpt lat="44.44264761172235" lon="20.602869288995862" />
+      <trkpt lat="44.442863194271922" lon="20.602472824975848" />
+      <trkpt lat="44.443186651915312" lon="20.602274592965841" />
+      <trkpt lat="44.443384213373065" lon="20.602869288995862" />
+      <trkpt lat="44.443563921377063" lon="20.602695783600211" />
+      <trkpt lat="44.443761231377721" lon="20.602249782532454" />
+      <trkpt lat="44.443833064287901" lon="20.601977203041315" />
+      <trkpt lat="44.444156521931291" lon="20.601258538663387" />
+      <trkpt lat="44.444551728665829" lon="20.60071337968111" />
+      <trkpt lat="44.444982977584004" lon="20.60036645270884" />
+      <trkpt lat="44.445324288681149" lon="20.600193031132221" />
+      <trkpt lat="44.445665683597326" lon="20.599895641207695" />
+      <trkpt lat="44.446186702698469" lon="20.599796483293176" />
+      <trkpt lat="44.446887345984578" lon="20.599697409197688" />
+      <trkpt lat="44.44762377999723" lon="20.599647788330913" />
+      <trkpt lat="44.448306486010551" lon="20.599746946245432" />
+      <trkpt lat="44.449213575571775" lon="20.599796483293176" />
+      <trkpt lat="44.449734594672918" lon="20.599969988688827" />
+      <trkpt lat="44.450273551046848" lon="20.599722135812044" />
+      <trkpt lat="44.450435237959027" lon="20.599053092300892" />
+      <trkpt lat="44.451189860701561" lon="20.598929207772017" />
+      <trkpt lat="44.451791681349277" lon="20.598929207772017" />
+      <trkpt lat="44.452204909175634" lon="20.598582280799747" />
+      <trkpt lat="44.452959448099136" lon="20.598260080441833" />
+      <trkpt lat="44.453624133020639" lon="20.598061848431826" />
+      <trkpt lat="44.454441452398896" lon="20.597318457439542" />
+      <trkpt lat="44.454759629443288" lon="20.59733203612268" />
+      <trkpt lat="44.454895416274667" lon="20.597443599253893" />
+      <trkpt lat="44.454997843131423" lon="20.597515432164073" />
+      <trkpt lat="44.4551164470613" lon="20.597599670290947" />
+      <trkpt lat="44.455234967172146" lon="20.597698828205466" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_32-47 0,7 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.458339372649789" lon="20.590617377310991" />
+      <trkpt lat="44.45828614756465" lon="20.591016355901957" />
+      <trkpt lat="44.458232251927257" lon="20.591326151043177" />
+      <trkpt lat="44.458133429288864" lon="20.591648267582059" />
+      <trkpt lat="44.458030080422759" lon="20.591970384120941" />
+      <trkpt lat="44.457953721284866" lon="20.592224439606071" />
+      <trkpt lat="44.457863951101899" lon="20.592459803447127" />
+      <trkpt lat="44.457805529236794" lon="20.592602295801044" />
+      <trkpt lat="44.457756076008081" lon="20.592750990763307" />
+      <trkpt lat="44.457657337188721" lon="20.592986438423395" />
+      <trkpt lat="44.457607883960009" lon="20.593110322952271" />
+      <trkpt lat="44.457528339698911" lon="20.593290282413363" />
+      <trkpt lat="44.457459105178714" lon="20.593524472787976" />
+      <trkpt lat="44.457364808768034" lon="20.593784730881453" />
+      <trkpt lat="44.457308230921626" lon="20.594122940674424" />
+      <trkpt lat="44.45728937163949" lon="20.594357131049037" />
+      <trkpt lat="44.457264225929976" lon="20.594608671963215" />
+      <trkpt lat="44.457270512357354" lon="20.59490354731679" />
+      <trkpt lat="44.457205384969711" lon="20.595366982743144" />
+      <trkpt lat="44.457070687785745" lon="20.595521796494722" />
+      <trkpt lat="44.456976475194097" lon="20.595664624124765" />
+      <trkpt lat="44.456693502143025" lon="20.595844332128763" />
+      <trkpt lat="44.456518404185772" lon="20.595968216657639" />
+      <trkpt lat="44.456298295408487" lon="20.596110709011555" />
+      <trkpt lat="44.45611858740449" lon="20.596228390932083" />
+      <trkpt lat="44.455925468355417" lon="20.596321346238256" />
+      <trkpt lat="44.455732349306345" lon="20.596457635983825" />
+      <trkpt lat="44.455566136166453" lon="20.596643462777138" />
+      <trkpt lat="44.455373017117381" lon="20.596823170781136" />
+      <trkpt lat="44.455251730978489" lon="20.596965663135052" />
+      <trkpt lat="44.455175371840596" lon="20.597089547663927" />
+      <trkpt lat="44.455182664096355" lon="20.597234219312668" />
+      <trkpt lat="44.455195236951113" lon="20.597373023629189" />
+      <trkpt lat="44.455206049606204" lon="20.597556419670582" />
+      <trkpt lat="44.455234799534082" lon="20.597700085490942" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_34-42 0,1 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.472514009103179" lon="20.579595845192671" />
+      <trkpt lat="44.472394566982985" lon="20.579708581790328" />
+      <trkpt lat="44.472275041043758" lon="20.579908071085811" />
+      <trkpt lat="44.472130453214049" lon="20.580064142122865" />
+      <trkpt lat="44.472017297521234" lon="20.580220296978951" />
+      <trkpt lat="44.471910344436765" lon="20.580385085195303" />
+      <trkpt lat="44.471826609224081" lon="20.580440992489457" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_35-37 0,45 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.467444969341159" lon="20.582212172448635" />
+      <trkpt lat="44.467441197484732" lon="20.582313761115074" />
+      <trkpt lat="44.467442119494081" lon="20.582379726693034" />
+      <trkpt lat="44.467567848041654" lon="20.582639900967479" />
+      <trkpt lat="44.467637082561851" lon="20.582848023623228" />
+      <trkpt lat="44.46768737398088" lon="20.583012811839581" />
+      <trkpt lat="44.467649655416608" lon="20.583194950595498" />
+      <trkpt lat="44.467517556622624" lon="20.58350726030767" />
+      <trkpt lat="44.467385541647673" lon="20.583706665784121" />
+      <trkpt lat="44.467316390946507" lon="20.583906155079603" />
+      <trkpt lat="44.467209437862039" lon="20.584088293835521" />
+      <trkpt lat="44.467115141451359" lon="20.584357185289264" />
+      <trkpt lat="44.467001985758543" lon="20.584695478901267" />
+      <trkpt lat="44.46691389195621" lon="20.584868900477886" />
+      <trkpt lat="44.46691389195621" lon="20.584990354254842" />
+      <trkpt lat="44.466851027682424" lon="20.585345914587379" />
+      <trkpt lat="44.466794449836016" lon="20.585363265126944" />
+      <trkpt lat="44.466712726280093" lon="20.585458651185036" />
+      <trkpt lat="44.466599486768246" lon="20.585675491020083" />
+      <trkpt lat="44.466492617502809" lon="20.585970366373658" />
+      <trkpt lat="44.46633537299931" lon="20.586265325546265" />
+      <trkpt lat="44.466190785169601" lon="20.586638236418366" />
+      <trkpt lat="44.466071259230375" lon="20.586846359074116" />
+      <trkpt lat="44.466089531779289" lon="20.586981642991304" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_35-39 0,6 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.466089531779289" lon="20.586979128420353" />
+      <trkpt lat="44.465965060517192" lon="20.587049787864089" />
+      <trkpt lat="44.465812342241406" lon="20.587099324911833" />
+      <trkpt lat="44.465560801327229" lon="20.587136456742883" />
+      <trkpt lat="44.46535418741405" lon="20.58716126717627" />
+      <trkpt lat="44.465066771954298" lon="20.587285151705146" />
+      <trkpt lat="44.464851189404726" lon="20.587371904402971" />
+      <trkpt lat="44.464608617126942" lon="20.587483383715153" />
+      <trkpt lat="44.464428992941976" lon="20.587755963206291" />
+      <trkpt lat="44.464312149211764" lon="20.588090568780899" />
+      <trkpt lat="44.464249284937978" lon="20.588276395574212" />
+      <trkpt lat="44.464213326573372" lon="20.5885861068964" />
+      <trkpt lat="44.464141493663192" lon="20.588883496820927" />
+      <trkpt lat="44.464132525026798" lon="20.589242829009891" />
+      <trkpt lat="44.464105535298586" lon="20.589701235294342" />
+      <trkpt lat="44.464105535298586" lon="20.590048162266612" />
+      <trkpt lat="44.464105535298586" lon="20.590271204710007" />
+      <trkpt lat="44.464051639661193" lon="20.590531378984451" />
+      <trkpt lat="44.46388098411262" lon="20.590779231861234" />
+      <trkpt lat="44.463755255565047" lon="20.590952653437853" />
+      <trkpt lat="44.463656432926655" lon="20.591163290664554" />
+      <trkpt lat="44.463611505925655" lon="20.591386333107948" />
+      <trkpt lat="44.463620474562049" lon="20.591733260080218" />
+      <trkpt lat="44.463548641651869" lon="20.592005839571357" />
+      <trkpt lat="44.463548641651869" lon="20.592241287231445" />
+      <trkpt lat="44.463422829285264" lon="20.59246432967484" />
+      <trkpt lat="44.463388714939356" lon="20.592543203383684" />
+      <trkpt lat="44.463361725211143" lon="20.592637332156301" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_36-44 2,6 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.462518841028214" lon="20.570937590673566">
+        <ele>429.089</ele>
+      </trkpt>
+      <trkpt lat="44.462220026180148" lon="20.571840740740299">
+        <ele>405.06</ele>
+      </trkpt>
+      <trkpt lat="44.461721470579505" lon="20.572668202221394">
+        <ele>389.05500000000001</ele>
+      </trkpt>
+      <trkpt lat="44.460895014926791" lon="20.573547966778278">
+        <ele>377.05099999999999</ele>
+      </trkpt>
+      <trkpt lat="44.4605060108006" lon="20.573945017531514">
+        <ele>372.07600000000002</ele>
+      </trkpt>
+      <trkpt lat="44.459956241771579" lon="20.573965720832348">
+        <ele>359.05599999999998</ele>
+      </trkpt>
+      <trkpt lat="44.459500014781952" lon="20.574552034959197">
+        <ele>351.08499999999998</ele>
+      </trkpt>
+      <trkpt lat="44.458139967173338" lon="20.575110018253326">
+        <ele>331.06599999999997</ele>
+      </trkpt>
+      <trkpt lat="44.457318037748337" lon="20.575387962162495">
+        <ele>320.029</ele>
+      </trkpt>
+      <trkpt lat="44.456399967893958" lon="20.57587000541389">
+        <ele>306.02100000000002</ele>
+      </trkpt>
+      <trkpt lat="44.45700203999877" lon="20.576432012021542">
+        <ele>306.00700000000001</ele>
+      </trkpt>
+      <trkpt lat="44.458237951621413" lon="20.577659457921982">
+        <ele>312.02100000000002</ele>
+      </trkpt>
+      <trkpt lat="44.457419961690903" lon="20.578262032940984">
+        <ele>309.05200000000002</ele>
+      </trkpt>
+      <trkpt lat="44.45724000222981" lon="20.578682972118258">
+        <ele>308.02699999999999</ele>
+      </trkpt>
+      <trkpt lat="44.457579888403416" lon="20.578857399523258" />
+      <trkpt lat="44.45801105350256" lon="20.579117573797703" />
+      <trkpt lat="44.458397291600704" lon="20.579340616241097" />
+      <trkpt lat="44.458621926605701" lon="20.57952644303441" />
+      <trkpt lat="44.459035154432058" lon="20.579836238175631" />
+      <trkpt lat="44.459394486621022" lon="20.580108817666769" />
+      <trkpt lat="44.459708891808987" lon="20.580455744639039" />
+      <trkpt lat="44.460122119635344" lon="20.580901829525828" />
+      <trkpt lat="44.460436524823308" lon="20.581236351281404" />
+      <trkpt lat="44.460786804556847" lon="20.581620410084724" />
+      <trkpt lat="44.461011439561844" lon="20.581831047311425" />
+      <trkpt lat="44.460822762921453" lon="20.582239916548133" />
+      <trkpt lat="44.460580190643668" lon="20.582648785784841" />
+      <trkpt lat="44.460274837911129" lon="20.582933770492673" />
+      <trkpt lat="44.459897484630346" lon="20.583317913115025" />
+      <trkpt lat="44.459583079442382" lon="20.583677245303988" />
+      <trkpt lat="44.459241768345237" lon="20.584086114540696" />
+      <trkpt lat="44.459062060341239" lon="20.584804695099592" />
+      <trkpt lat="44.458936331793666" lon="20.5852135643363" />
+      <trkpt lat="44.458684790879488" lon="20.585513217374682" />
+      <trkpt lat="44.458251362666488" lon="20.585501315072179" />
+      <trkpt lat="44.457912230864167" lon="20.585736259818077" />
+      <trkpt lat="44.457525992766023" lon="20.585798202082515" />
+      <trkpt lat="44.457058869302273" lon="20.585773475468159" />
+      <trkpt lat="44.456715295091271" lon="20.585614135488868" />
+      <trkpt lat="44.456297541037202" lon="20.585538865998387" />
+      <trkpt lat="44.455866375938058" lon="20.585538865998387" />
+      <trkpt lat="44.455758584663272" lon="20.586215872317553" />
+      <trkpt lat="44.455758584663272" lon="20.586892878636718" />
+      <trkpt lat="44.455810217186809" lon="20.587223125621676" />
+      <trkpt lat="44.455707790330052" lon="20.587421273812652" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_36-45 0,1 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.455709382891655" lon="20.587428146973252" />
+      <trkpt lat="44.455850869417191" lon="20.58756141923368" />
+      <trkpt lat="44.455940723419189" lon="20.587703911587596" />
+      <trkpt lat="44.456062009558082" lon="20.587939359247684" />
+      <trkpt lat="44.456124873831868" lon="20.588168520480394" />
+      <trkpt lat="44.456165274605155" lon="20.588372955098748" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_37-41 0,6 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.467454943805933" lon="20.582213345915079" />
+      <trkpt lat="44.467687793076038" lon="20.581992147490382" />
+      <trkpt lat="44.467957271263003" lon="20.5816700309515" />
+      <trkpt lat="44.468226833269" lon="20.581397451460361" />
+      <trkpt lat="44.468550207093358" lon="20.581075251102448" />
+      <trkpt lat="44.468846675008535" lon="20.580691192299128" />
+      <trkpt lat="44.469134090468287" lon="20.580344265326858" />
+      <trkpt lat="44.469358641654253" lon="20.580096412450075" />
+      <trkpt lat="44.469565255567431" lon="20.579823832958937" />
+      <trkpt lat="44.469825765118003" lon="20.579576063901186" />
+      <trkpt lat="44.470031792297959" lon="20.579513283446431" />
+      <trkpt lat="44.470291128382087" lon="20.579573968425393" />
+      <trkpt lat="44.470573933795094" lon="20.579626942053437" />
+      <trkpt lat="44.470683736726642" lon="20.579628702253103" />
+      <trkpt lat="44.470778116956353" lon="20.579588133841753" />
+      <trkpt lat="44.470869898796082" lon="20.579502889886498" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_37-44 1,5 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.462518841028214" lon="20.570935159921646" />
+      <trkpt lat="44.46275663562119" lon="20.571468081325293" />
+      <trkpt lat="44.463008176535368" lon="20.571715934202075" />
+      <trkpt lat="44.463205737993121" lon="20.571938892826438" />
+      <trkpt lat="44.463385445997119" lon="20.572137208655477" />
+      <trkpt lat="44.463421404361725" lon="20.572384977713227" />
+      <trkpt lat="44.463493237271905" lon="20.572905326262116" />
+      <trkpt lat="44.463475299999118" lon="20.573103642091155" />
+      <trkpt lat="44.463726757094264" lon="20.573277063667774" />
+      <trkpt lat="44.463978298008442" lon="20.573623990640044" />
+      <trkpt lat="44.464211901649833" lon="20.573797496035695" />
+      <trkpt lat="44.464319692924619" lon="20.57409480214119" />
+      <trkpt lat="44.464553212746978" lon="20.574243497103453" />
+      <trkpt lat="44.464714899659157" lon="20.574491349980235" />
+      <trkpt lat="44.464966440573335" lon="20.574590424075723" />
+      <trkpt lat="44.46516408585012" lon="20.574763929471374" />
+      <trkpt lat="44.46546952240169" lon="20.575086046010256" />
+      <trkpt lat="44.465523418039083" lon="20.575383435934782" />
+      <trkpt lat="44.465757021680474" lon="20.575755089521408" />
+      <trkpt lat="44.465954583138227" lon="20.57600294239819" />
+      <trkpt lat="44.466206124052405" lon="20.576300332322717" />
+      <trkpt lat="44.466385832056403" lon="20.576424216851592" />
+      <trkpt lat="44.466619351878762" lon="20.576746333390474" />
+      <trkpt lat="44.466852955520153" lon="20.577118070796132" />
+      <trkpt lat="44.467104496434331" lon="20.577464997768402" />
+      <trkpt lat="44.467320078983903" lon="20.577638419345021" />
+      <trkpt lat="44.467571619898081" lon="20.577638419345021" />
+      <trkpt lat="44.467715285718441" lon="20.577811924740672" />
+      <trkpt lat="44.467894993722439" lon="20.578010156750679" />
+      <trkpt lat="44.468182409182191" lon="20.578307546675205" />
+      <trkpt lat="44.46834409609437" lon="20.578654473647475" />
+      <trkpt lat="44.468416012823582" lon="20.57895177975297" />
+      <trkpt lat="44.46834409609437" lon="20.579273980110884" />
+      <trkpt lat="44.468146534636617" lon="20.579744791612029" />
+      <trkpt lat="44.467948889359832" lon="20.580066908150911" />
+      <trkpt lat="44.467625515535474" lon="20.580240413546562" />
+      <trkpt lat="44.46733801625669" lon="20.580537719652057" />
+      <trkpt lat="44.467068538069725" lon="20.580884646624327" />
+      <trkpt lat="44.466888830065727" lon="20.581182036548853" />
+      <trkpt lat="44.466655310243368" lon="20.581752005964518" />
+      <trkpt lat="44.466673247516155" lon="20.582123743370175" />
+      <trkpt lat="44.466601414605975" lon="20.582445859909058" />
+      <trkpt lat="44.466601414605975" lon="20.58276797644794" />
+      <trkpt lat="44.466745164245367" lon="20.582916671410203" />
+      <trkpt lat="44.466978684067726" lon="20.582644091919065" />
+      <trkpt lat="44.467140370979905" lon="20.582495396956801" />
+      <trkpt lat="44.467446813359857" lon="20.582214603200555" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_38-43 1 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.47385385632515" lon="20.55808687582612" />
+      <trkpt lat="44.473612876608968" lon="20.557678006589413" />
+      <trkpt lat="44.472795389592648" lon="20.557314483448863" />
+      <trkpt lat="44.472202537581325" lon="20.557164028286934" />
+      <trkpt lat="44.471717476844788" lon="20.557176517322659" />
+      <trkpt lat="44.471376081928611" lon="20.557126393541694" />
+      <trkpt lat="44.470837125554681" lon="20.557076269760728" />
+      <trkpt lat="44.470298085361719" lon="20.556963449344039" />
+      <trkpt lat="44.469902878627181" lon="20.556913241744041" />
+      <trkpt lat="44.469381859526038" lon="20.556850545108318" />
+      <trkpt lat="44.469030993059278" lon="20.556737724691629" />
+      <trkpt lat="44.468617765232921" lon="20.55637420155108" />
+      <trkpt lat="44.468339318409562" lon="20.555910347029567" />
+      <trkpt lat="44.468159694224596" lon="20.55574731901288" />
+      <trkpt lat="44.467962048947811" lon="20.555321099236608" />
+      <trkpt lat="44.467719476670027" lon="20.554769486188889" />
+      <trkpt lat="44.467369113117456" lon="20.55439330637455" />
+      <trkpt lat="44.466973906382918" lon="20.553804142400622" />
+      <trkpt lat="44.466325985267758" lon="20.553651172667742" />
+      <trkpt lat="44.465761883184314" lon="20.553158819675446" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_40-46 1 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.47153240442276" lon="20.589165212586522" />
+      <trkpt lat="44.471586300060153" lon="20.589436031877995" />
+      <trkpt lat="44.471637513488531" lon="20.589594030752778" />
+      <trkpt lat="44.471718315035105" lon="20.589763261377811" />
+      <trkpt lat="44.47179920040071" lon="20.589955123141408" />
+      <trkpt lat="44.471915038302541" lon="20.590169448405504" />
+      <trkpt lat="44.472014782950282" lon="20.590263493359089" />
+      <trkpt lat="44.472187282517552" lon="20.590455271303654" />
+      <trkpt lat="44.4724334590137" lon="20.590625843033195" />
+      <trkpt lat="44.472868647426367" lon="20.590960951521993" />
+      <trkpt lat="44.473093198612332" lon="20.591362109407783" />
+      <trkpt lat="44.47325044311583" lon="20.591706857085228" />
+      <trkpt lat="44.473430067300797" lon="20.592076750472188" />
+      <trkpt lat="44.473492931574583" lon="20.592484194785357" />
+      <trkpt lat="44.473448088392615" lon="20.59294804930687" />
+      <trkpt lat="44.473412130028009" lon="20.593336634337902" />
+      <trkpt lat="44.473376171663404" lon="20.593744162470102" />
+      <trkpt lat="44.473362676799297" lon="20.594239365309477" />
+      <trkpt lat="44.473353708162904" lon="20.594910085201263" />
+      <trkpt lat="44.473259830847383" lon="20.595274614170194" />
+      <trkpt lat="44.473187914118171" lon="20.595600586384535" />
+      <trkpt lat="44.473035279661417" lon="20.596039379015565" />
+      <trkpt lat="44.472882561385632" lon="20.596415475010872" />
+      <trkpt lat="44.47269388474524" lon="20.596791571006179" />
+      <trkpt lat="44.472496239468455" lon="20.597242936491966" />
+      <trkpt lat="44.472388448193669" lon="20.597518784925342" />
+      <trkpt lat="44.472253667190671" lon="20.597719363868237" />
+      <trkpt lat="44.472118970006704" lon="20.598007701337337" />
+      <trkpt lat="44.471939262002707" lon="20.59822085313499" />
+      <trkpt lat="44.471786543726921" lon="20.598484128713608" />
+      <trkpt lat="44.471570961177349" lon="20.598722258582711" />
+      <trkpt lat="44.471391336992383" lon="20.599048230797052" />
+      <trkpt lat="44.471238618716598" lon="20.599411837756634" />
+      <trkpt lat="44.471238618716598" lon="20.599587354809046" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_40-48 0,9 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.464128920808434" lon="20.593329425901175" />
+      <trkpt lat="44.46414778009057" lon="20.593284834176302" />
+      <trkpt lat="44.464196311309934" lon="20.593214174732566" />
+      <trkpt lat="44.46427820250392" lon="20.593146029859781" />
+      <trkpt lat="44.464692352339625" lon="20.592955341562629" />
+      <trkpt lat="44.466057764366269" lon="20.591601328924298" />
+      <trkpt lat="44.466433273628354" lon="20.591250294819474" />
+      <trkpt lat="44.466731501743197" lon="20.591059690341353" />
+      <trkpt lat="44.466796210035682" lon="20.590954413637519" />
+      <trkpt lat="44.467004584148526" lon="20.590966902673244" />
+      <trkpt lat="44.467096282169223" lon="20.590944355353713" />
+      <trkpt lat="44.46716895326972" lon="20.590904206037521" />
+      <trkpt lat="44.467672873288393" lon="20.590437585487962" />
+      <trkpt lat="44.468050142750144" lon="20.590384947136045" />
+      <trkpt lat="44.468559008091688" lon="20.590095352381468" />
+      <trkpt lat="44.469102490693331" lon="20.589662846177816" />
+      <trkpt lat="44.469626527279615" lon="20.589564442634583" />
+      <trkpt lat="44.469897514209151" lon="20.58943091891706" />
+      <trkpt lat="44.470300264656544" lon="20.589391021057963" />
+      <trkpt lat="44.470898984000087" lon="20.589141324162483" />
+      <trkpt lat="44.471177430823445" lon="20.588990869000554" />
+      <trkpt lat="44.471343643963337" lon="20.588802779093385" />
+      <trkpt lat="44.471418494358659" lon="20.588982151821256" />
+      <trkpt lat="44.471527375280857" lon="20.589160602539778" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_41-42 0,14 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.470889680087566" lon="20.579497693106532" />
+      <trkpt lat="44.47096511721611" lon="20.579519988968968" />
+      <trkpt lat="44.471008200198412" lon="20.579661224037409" />
+      <trkpt lat="44.471056731417775" lon="20.579798771068454" />
+      <trkpt lat="44.471080955117941" lon="20.579880578443408" />
+      <trkpt lat="44.471215736120939" lon="20.580040421336889" />
+      <trkpt lat="44.471307350322604" lon="20.580140752717853" />
+      <trkpt lat="44.471363928169012" lon="20.580207640305161" />
+      <trkpt lat="44.471444813534617" lon="20.580267151817679" />
+      <trkpt lat="44.471533745527267" lon="20.580311743542552" />
+      <trkpt lat="44.471628041937947" lon="20.580348875373602" />
+      <trkpt lat="44.471711609512568" lon="20.580382319167256" />
+      <trkpt lat="44.471776317805052" lon="20.580415846779943" />
+      <trkpt lat="44.471831973642111" lon="20.580440992489457" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_43-49 0,3 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.473870452493429" lon="20.558164827525616" />
+      <trkpt lat="44.473593765869737" lon="20.558313941583037" />
+      <trkpt lat="44.473229069262743" lon="20.558559698984027" />
+      <trkpt lat="44.473040392622352" lon="20.558770336210728" />
+      <trkpt lat="44.472858002409339" lon="20.55893705226481" />
+      <trkpt lat="44.472575113177299" lon="20.559121370315552" />
+      <trkpt lat="44.472241764888167" lon="20.559358326718211" />
+      <trkpt lat="44.472021739929914" lon="20.559525042772293" />
+      <trkpt lat="44.471839349716902" lon="20.559735679998994" />
+      <trkpt lat="44.471669532358646" lon="20.559937516227365" />
+      <trkpt lat="44.471575235947967" lon="20.560077913105488" />
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>putanja_45-47 0,7 km</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.456158485263586" lon="20.588368596509099" />
+      <trkpt lat="44.456076677888632" lon="20.588487535715103" />
+      <trkpt lat="44.455885570496321" lon="20.588438585400581" />
+      <trkpt lat="44.455640316009521" lon="20.588359627872705" />
+      <trkpt lat="44.455294478684664" lon="20.588289387524128" />
+      <trkpt lat="44.454917209222913" lon="20.588236749172211" />
+      <trkpt lat="44.45462635718286" lon="20.588360046967864" />
+      <trkpt lat="44.454329973086715" lon="20.588508741930127" />
+      <trkpt lat="44.454114306718111" lon="20.58865743689239" />
+      <trkpt lat="44.453810462728143" lon="20.588842341676354" />
+      <trkpt lat="44.453892186284065" lon="20.588956419378519" />
+      <trkpt lat="44.453974831849337" lon="20.589202595874667" />
+      <trkpt lat="44.454441955313087" lon="20.589537117630243" />
+      <trkpt lat="44.45484621450305" lon="20.589908771216869" />
+      <trkpt lat="44.455169588327408" lon="20.590144218876958" />
+      <trkpt lat="44.455439066514373" lon="20.590354856103659" />
+      <trkpt lat="44.455732852220535" lon="20.59057236649096" />
+      <trkpt lat="44.456005012616515" lon="20.590937230736017" />
+      <trkpt lat="44.456076845526695" lon="20.591023899614811" />
+      <trkpt lat="44.456262337043881" lon="20.591162871569395" />
+      <trkpt lat="44.456477919593453" lon="20.591091373935342" />
+      <trkpt lat="44.456784026697278" lon="20.590953743085265" />
+      <trkpt lat="44.45693414658308" lon="20.590904206037521" />
+      <trkpt lat="44.457158697769046" lon="20.590898003429174" />
+      <trkpt lat="44.457387775182724" lon="20.590873192995787" />
+      <trkpt lat="44.457607883960009" lon="20.590854668989778" />
+      <trkpt lat="44.457781137898564" lon="20.590829774737358" />
+      <trkpt lat="44.457996804267168" lon="20.590792642906308" />
+      <trkpt lat="44.458183133974671" lon="20.590665070340037" />
+      <trkpt lat="44.458339456468821" lon="20.59061243198812" />
+    </trkseg>
+  </trk>
+
+</gpx>
