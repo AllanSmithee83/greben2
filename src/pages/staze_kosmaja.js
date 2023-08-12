@@ -9,20 +9,19 @@ import {FaMap, FaMapMarked } from "react-icons/fa"
 import mapa from "../images/files/mapa.webp"
 
 
+
 // import Banner from "../components/Banner"
 // import { Link } from "gatsby"
 export default function stazeKosmaja({ data }) { 
-  console.log('aaa', data)
-  return (
+   return (
     <Layout>
       <SEO title="Staze Kosmaja"/>
       <div >
       <Image fluid={data.stazeKosmaja.childImageSharp.fluid} alt="pkgreben" />
-
       <section className={styles.services}>
         <div className={styles.center}>
             <article className={styles.service}>
-                <a href="../images/files/Staze_Kosmaja.gpx" download className={styles.links}>
+                <a href="/Staze_Kosmaja.gpx" download className={styles.links}>
                   <span><FaMapMarked /></span>
                 </a>
               <h4>Staze Kosmaja</h4>
@@ -114,6 +113,5 @@ export const query = graphql`
         }
       }
     }
-   
   }
 `
