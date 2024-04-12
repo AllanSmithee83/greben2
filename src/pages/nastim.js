@@ -15,10 +15,10 @@ export default function nastim() {
           <div className="our-team-card-content">
             <FaUserTie className="najave-font-h" />
             <div className="our-team-card-info">
-              <p className="our-team-card-info-p">Branko Marković</p>
+              <p className="our-team-card-info-p">Dejan Kostadinović</p>
               <p>
                 <FaPhoneSquare className="najave-font " />
-                064/1983719
+                063/510915
               </p>
             </div>
           </div>
@@ -28,10 +28,10 @@ export default function nastim() {
           <div className="our-team-card-content">
             <FaUserTie className="najave-font-h" />
             <div className="our-team-card-info">
-              <p className="our-team-card-info-p">Dejan Jaćimović</p>
+              <p className="our-team-card-info-p">Jelena Radosavljeić</p>
               <p>
                 <FaPhoneSquare className="najave-font " />
-                064/6151403
+                069/1747111
               </p>
             </div>
           </div>
@@ -43,10 +43,10 @@ export default function nastim() {
           <div className="our-team-card-content">
             <FaUserTie className="najave-font-h" />
             <div className="our-team-card-info">
-              <p className="our-team-card-info-p">Miloš Jeremić</p>
+              <p className="our-team-card-info-p">Dejan Jaćimović</p>
               <p>
                 <FaPhoneSquare className="najave-font " />
-                064/1776253
+                 064/6151403
               </p>
             </div>
           </div>
@@ -56,10 +56,10 @@ export default function nastim() {
           <div className="our-team-card-content">
             <FaUserTie className="najave-font-h" />
             <div className="our-team-card-info">
-              <p className="our-team-card-info-p">Romana Žmurić</p>
+              <p className="our-team-card-info-p">Slobodanka Maksimović</p>
               <p>
                 <FaPhoneSquare className="najave-font " />
-                063/8234802
+                064/2818369
               </p>
             </div>
           </div>
@@ -84,10 +84,10 @@ export default function nastim() {
           <div className="our-team-card-content">
             <FaUserTie className="najave-font-h" />
             <div className="our-team-card-info">
-              <p className="our-team-card-info-p">Suzana Filipović</p>
+              <p className="our-team-card-info-p">Saša Dobrić</p>
               <p>
                 <FaPhoneSquare className="najave-font " />
-                065/8236952
+                06x/xxxxxxx
               </p>
             </div>
           </div>
@@ -97,10 +97,10 @@ export default function nastim() {
           <div className="our-team-card-content">
             <FaUserTie className="najave-font-h" />
             <div className="our-team-card-info">
-              <p className="our-team-card-info-p">Jelena Rakić</p>
+              <p className="our-team-card-info-p">Stojan Nikolić</p>
               <p>
                 <FaPhoneSquare className="najave-font" />
-                066/062536
+                06x/xxxxxxx
               </p>
             </div>
           </div>
@@ -110,10 +110,10 @@ export default function nastim() {
           <div className="our-team-card-content">
             <FaUserTie className="najave-font-h" />
             <div className="our-team-card-info">
-              <p className="our-team-card-info-p">Angelina Jeremić</p>
+              <p className="our-team-card-info-p">Ivana Stojanović</p>
               <p>
                 <FaPhoneSquare className="najave-font" />
-                060/5057626
+                06x-xxxxxx
               </p>
             </div>
           </div>
