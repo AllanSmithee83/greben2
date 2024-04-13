@@ -64,19 +64,19 @@ export default function nastim() {
             </div>
           </div>
         </li>
-        <li className="our-team-card">
-          <h4 className="our-team-card-titula">Via Ferrata</h4>
-          <div className="our-team-card-content">
-            <FaUserTie className="najave-font-h" />
-            <div className="our-team-card-info">
-              <p className="our-team-card-info-p">Miroslav Čolić</p>
-              <p>
-                <FaPhoneSquare className="najave-font " />
-                064/4211441
-              </p>
-            </div>
-          </div>
-        </li>
+        // <li className="our-team-card">
+        //   <h4 className="our-team-card-titula">Via Ferrata</h4>
+        //   <div className="our-team-card-content">
+        //     <FaUserTie className="najave-font-h" />
+        //     <div className="our-team-card-info">
+        //       <p className="our-team-card-info-p">Miroslav Čolić</p>
+        //       <p>
+        //         <FaPhoneSquare className="najave-font " />
+        //         064/4211441
+        //       </p>
+        //     </div>
+        //   </div>
+        // </li>
       </ul>
       <ul className="our-team-card-list">
         <li className="our-team-card">
