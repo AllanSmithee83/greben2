@@ -15,10 +15,10 @@ export default function nastim() {
           <div className="our-team-card-content">
             <FaUserTie className="najave-font-h" />
             <div className="our-team-card-info">
-              <p className="our-team-card-info-p">Dejan Kostadinović</p>
+              <p className="our-team-card-info-p">Stojan Nikolić</p>
               <p>
                 <FaPhoneSquare className="najave-font " />
-                063/510915
+                060/2424521
               </p>
             </div>
           </div>
