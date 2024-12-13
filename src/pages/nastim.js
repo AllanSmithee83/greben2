@@ -84,7 +84,7 @@ export default function nastim() {
           <div className="our-team-card-content">
             <FaUserTie className="najave-font-h" />
             <div className="our-team-card-info">
-              <p className="our-team-card-info-p">Stojan Nikolić</p>
+              <p className="our-team-card-info-p">Ana Mijailović</p>
               <p>
                 <FaPhoneSquare className="najave-font" />
                 06x/xxxxxxx
