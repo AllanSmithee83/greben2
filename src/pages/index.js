@@ -17,6 +17,9 @@ export default ({ data }) => (
         <Link to="/najave" className="btn-white">
           pogledaj naše akcije
         </Link>
+   <Link to="/postani-clan" className="btn-white" style={{ marginTop: "1rem" }}>
+    postani član
+  </Link>
       </Banner>
     </StyledHero>
     <About />
