@@ -237,6 +237,9 @@ const PostaniClan = () => {
             <li>
               Proceduru možete obaviti lično sredom od 20.00 do 21.00 h.
             </li>
+                  <li>
+              Pk Greben ne snosi nikakvu odgovornost za članske kartice i markice koje nisu preuzete od članova u toku tekuće godine, niti je u obavezi da iste naknadno izdaje, čuva ili nadoknađuje.
+            </li>
           </ul>
         </div>
 
